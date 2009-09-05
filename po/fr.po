@@ -3,48 +3,50 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-03-10 23:07+0100\n"
-"PO-Revision-Date: 2009-03-10 23:07+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2009-08-10 22:02+0100\n"
+"Last-Translator: Guigou <guillaume.guigou@cnfpt.fr>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
 
 #. [campaign]: id=Fall_of_Silvium
 #: Fall_of_Silvium/_main.cfg:10
 msgid "The Fall of Silvium"
-msgstr ""
+msgstr "La Chute de Silvium"
 
 #. [campaign]: id=Fall_of_Silvium
 #: Fall_of_Silvium/_main.cfg:11
 msgid "FoS"
-msgstr ""
+msgstr "CdS"
 
 #. [campaign]: id=Fall_of_Silvium
 #: Fall_of_Silvium/_main.cfg:16
 msgid "Centurion"
-msgstr ""
+msgstr "Centurion"
 
 #. [campaign]: id=Fall_of_Silvium
 #: Fall_of_Silvium/_main.cfg:16
 msgid "(easiest)"
-msgstr ""
+msgstr "(facile)"
 
 #. [campaign]: id=Fall_of_Silvium
 #: Fall_of_Silvium/_main.cfg:17
 msgid "Tribunus"
-msgstr ""
+msgstr "Tribun"
 
 #. [campaign]: id=Fall_of_Silvium
 #: Fall_of_Silvium/_main.cfg:18
 msgid "(hardest)"
-msgstr ""
+msgstr "(difficile)"
 
 #. [campaign]: id=Fall_of_Silvium
 #: Fall_of_Silvium/_main.cfg:18
 msgid "Imperator"
-msgstr ""
+msgstr "Empereur"
 
 #. [campaign]: id=Fall_of_Silvium
 #: Fall_of_Silvium/_main.cfg:25
@@ -62,11 +64,23 @@ msgid ""
 "(Intermediate level, 8 scenarios.)\n"
 "\n"
 msgstr ""
+"890-900 SI\n"
+"    \n"
+"Vous êtes Caius Regilius, un tribun, de la province de Silvia, située dans "
+"l’extrême nord de l’empire Lavinian. Vous habitez dans la ville de Silvium, "
+"capitale de la province, à la frontière avec les barbares du nord. C'est le "
+"point culminant de l’empire Lavinian. Mais l’empire c’est étendu au delà de "
+"sa capacité. La ville de Silvia se trouve au nord des montagnes d’Arendia, "
+"et est en sandwich entre les Maraudeurs et les Sidhes ... la guerre est "
+"inévitable, et la province de Silvia va presque certainement tomber.\n"
+"\n"
+"(Niveau intermédiaire, 8 scénarios.)\n"
+"\n"
 
 #. [scenario]: id=1_Return_from_Lavinium
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:17
 msgid "Return from Lavinium"
-msgstr ""
+msgstr "Retour de Lavinium"
 
 #. [side]: type=Lavinian Tribune, id=Caius R
 #. [side]: type=Lavinian Centurion, id=Senturus A
@@ -82,32 +96,32 @@ msgstr ""
 #: Fall_of_Silvium/scenarios/8r_The_Pass_of_Arendia.cfg:37
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:44
 msgid "12th Legion"
-msgstr ""
+msgstr "12th Legion"
 
 #. [side]: type=Lavinian Tribune, id=Caius R
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:42
 msgid "Caius Regilius"
-msgstr ""
+msgstr "Caius Regilius"
 
 #. [unit]: type=Nemidian Champion, type=Nemidian Claimant, id=Jugarthus M
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:54
 msgid "Jugarthus Massaesylus"
-msgstr ""
+msgstr "Jugarthus Massaesylus"
 
 #. [unit]: type=Lavinian Decurion, id=Septimus A
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:68
 msgid "Septimus Antonius"
-msgstr ""
+msgstr "Septimus Antonius"
 
 #. [unit]: type=Lavinian Signifer, id=Appius S
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:80
 msgid "Appius Servus"
-msgstr ""
+msgstr "Appius Servus"
 
 #. [unit]: type=Lavinian Propugnator, id=Septus T
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:92
 msgid "Septus Triptus"
-msgstr ""
+msgstr "Septus Triptus"
 
 #. [side]
 #. [side]: type=Marauder Scorcher, id=Alfbane
@@ -124,7 +138,7 @@ msgstr ""
 #: Fall_of_Silvium/scenarios/8r_The_Pass_of_Arendia.cfg:51
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:140
 msgid "Wylflings"
-msgstr ""
+msgstr "Wylflings"
 
 #. [part]
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:119
@@ -135,6 +149,12 @@ msgid ""
 "the Empire, and if it were attacked, it would quickly crumble. It is a good "
 "thing the Marauders do not attack us unless we attack them. So far."
 msgstr ""
+"Silvia n'est pas comme la plupart des provinces de l'Empire. Elle est située "
+"à des milliers de kilomètres de la Cité impériale, Lavinium, et il y a un "
+"pays allié, Arendia, entre les deux. Silvia est, comme cela a toujours été "
+"coupé du reste de l'Empire, et si elle avait été attaquée, elle se serait "
+"effondrée rapidement. C'est une bonne chose que les Maraudeurs ne nous "
+"attaquent pas si nous ne les attaquons pas. Jusqu'à présent."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:123
@@ -144,6 +164,10 @@ msgid ""
 "in the province, in Portum Frigae, with another tribune, but I do not have "
 "authority over it."
 msgstr ""
+"Moi, Je suis Caius Regilius, le tribun de cette province. Je commande la "
+"12éme Légion, qui est stationnée dans la ville de Silvium. Il y a une autre "
+"Légion dans la province, à Portum Frigae, avec un autre tribun, mais je n'ai "
+"pas autorité sur lui."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:127
@@ -154,12 +178,17 @@ msgid ""
 "just now coming up to the Pass of Arendia, the most dangerous part of the "
 "return to Silvia..."
 msgstr ""
+"Je suis de retour d'un voyage à la capitale de l'Empire, Lavinium. "
+"Malheureusement pour ma carrière politique, le voyage est tellement long que "
+"je ne peux que le faire une fois tous les cinq ans, lors de la présentation "
+"de mon rapport quinquennal. Nous arrivons juste à la passe d’Arendia, La "
+"partie la plus dangereuse du retour à Silvia..."
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:150
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:267
 msgid "Move Caius Regilius to the end of the road"
-msgstr ""
+msgstr "Déplacez Caius Regilius à la fin de la route"
 
 #. [objective]: condition=lose
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:154
@@ -180,7 +209,7 @@ msgstr ""
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:520
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:557
 msgid "Death of Caius Regilius"
-msgstr ""
+msgstr "Mort de Caius Regilius"
 
 #. [objective]: condition=lose
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:158
@@ -199,14 +228,14 @@ msgstr ""
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:524
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:561
 msgid "Death of Jugarthus Massaesylus"
-msgstr ""
+msgstr "Mort de Jugarthus Massaesylus"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:186
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:97
 #: Fall_of_Silvium/scenarios/8r_The_Pass_of_Arendia.cfg:90
 msgid "Dverkenn Tarn"
-msgstr ""
+msgstr "Lac de montagne Dverkenn"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:190
@@ -216,7 +245,7 @@ msgstr ""
 #: Fall_of_Silvium/scenarios/8r_The_Pass_of_Arendia.cfg:94
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:196
 msgid "Silvia River"
-msgstr ""
+msgstr "Fleuve de Silvia"
 
 #. [label]
 #. [scenario]: id=7_To_Arendia
@@ -226,14 +255,14 @@ msgstr ""
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:105
 #: Fall_of_Silvium/scenarios/8r_The_Pass_of_Arendia.cfg:98
 msgid "To Arendia"
-msgstr ""
+msgstr "Vers Arendia"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:198
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:109
 #: Fall_of_Silvium/scenarios/8r_The_Pass_of_Arendia.cfg:102
 msgid "To Silvia"
-msgstr ""
+msgstr "Vers Silvia"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:204
@@ -241,6 +270,8 @@ msgid ""
 "We are leaving Arendia now... these next few miles are the most dangerous of "
 "the journey."
 msgstr ""
+"Nous quittons Arendia maintenant… Les prochains kilomètres sont les plus "
+"dangereux du voyage."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:208
@@ -249,31 +280,37 @@ msgid ""
 "break the treaty we have. And we don't want a war with the Marauders just "
 "because some stupid thain decided he wanted some loot."
 msgstr ""
+"Si l'on nous attaque, ne pas réagir. Ne pas tuer l'agresseur - nous ne "
+"voulons pas briser le traité que nous avons. Et nous ne voulons pas d'une "
+"guerre avec les Maraudeurs seulement parce qu'un stupide thain a décidé "
+"qu'il voulait un butin."
 
 #. [unit]: type=Marauder Pillager, id=Aldkar
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:228
 msgid "Aldkar Wyrmwylfsson"
-msgstr ""
+msgstr "Aldkar Wyrmwylfsson"
 
 #. [message]: id=Aldkar
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:233
 msgid "Ha! Now I have you... you'll never get away from here alive!"
 msgstr ""
+"Ha! Maintenant, je vous ... vous ne pourrai plus vous sortir de là en vie!"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:237
 msgid "Why do you attack us? We have a peace treaty with your people."
 msgstr ""
+"Pourquoi nous attaquer? Nous avons un traité de paix avec votre peuple."
 
 #. [message]: id=Aldkar
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:241
 msgid "Prepare to die!"
-msgstr ""
+msgstr "Prépare-toi à mourir!"
 
 #. [message]: id=Septus T
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:245
 msgid "No, you prepare to die! Attack!"
-msgstr ""
+msgstr "Non, vous préparer vous à mourir! A l’attaque!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:249
@@ -282,11 +319,15 @@ msgid ""
 "with the Marauders - we would be destroyed in a few weeks. Especially not "
 "with the Wylflings."
 msgstr ""
+"Attendez! Nous ne pouvons pas le tuer. Si nous ne le faisons, cela "
+"signifierait la guerre. Nous ne pouvons nous permettre une guerre avec les "
+"Maraudeurs - nous serions détruit en quelques semaines. Surtout pas avec "
+"Wylflings"
 
 #. [message]: id=Septus T
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:253
 msgid "So what do we do? I still say, 'attack!'!"
-msgstr ""
+msgstr "Alors, que faisons-nous? Je continue à dire à l'attaque!!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:257
@@ -296,26 +337,32 @@ msgid ""
 "him. If we can't make him retreat, we should just continue on our journey. "
 "These marauders are just like flies - they irritate, but they pose no threat."
 msgstr ""
+"Nous pouvons le combattre ... mais pas le tuer. Tuer ses hommes, une amende "
+"peut-être, nous pouvons peut-être le forcer à la retraite si nous faisons "
+"assez de dégât à son armée. Mais nous ne pouvons pas le tuer. Si nous ne "
+"pouvons pas nous retirer, nous devons tout simplement continuer sur notre "
+"chemin. Les Maraudeurs sont comme des mouches - ils irritent, mais ils ne "
+"sont pas une menace."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:261
 msgid "For now, at least."
-msgstr ""
+msgstr "Pour l'instant, au moins."
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:271
 msgid "Force the Marauder leader to retreat"
-msgstr ""
+msgstr "Forcer le chef Maraudeur à la retraite."
 
 #. [objective]: condition=lose
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:283
 msgid "Death of Aldkar Wyrmwylfsson"
-msgstr ""
+msgstr "Mort de Aldkar Wyrmwylfsson"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:296
 msgid "This looks like a good place to prepare a defense from."
-msgstr ""
+msgstr "Cela semble un bon endroit pour préparer une défense."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:310
@@ -323,6 +370,8 @@ msgid ""
 "Come on, men! Reinforcements wait just down the road - the Marauders will "
 "not follow us."
 msgstr ""
+"Courage, les hommes! Les renforts nous attendent en bas de la route - les "
+"Maraudeurs ne pourront pas nous suivre."
 
 #. [message]: id=Aldkar
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:314
@@ -330,6 +379,8 @@ msgid ""
 "Damn! The Lavinians have escaped. But my brethren will soon finish him "
 "nonetheless..."
 msgstr ""
+"Maudit! Les laviniens se sont échappé. Mais mes frères, c’est bientôt la fin "
+"pour eux."
 
 #. [message]: id=Aldkar
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:341
@@ -337,31 +388,34 @@ msgid ""
 "My army has vanished! These Lavinians have more courage than I thought. I "
 "hope my brethren do not fare as badly as I did..."
 msgstr ""
+"Mon armée est décimée! Ces Laviniens ont plus de courage que je ne le "
+"pensais. J'espère que mes frères ont plus de succès que moi..."
 
 #. [message]: id=Aldkar
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:364
 msgid "You fools... now my people will destroy you..."
-msgstr ""
+msgstr "Sots que vous êtes ... maintenant, mon peuple, va vous détruire."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/1_Return_from_Lavinium.cfg:406
 msgid "Careful! We cannot slay him and start a blood war."
 msgstr ""
+"Attention! Nous ne pouvons pas le tuer et commencer une guerre sanglante."
 
 #. [scenario]: id=2_The_Raid
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:21
 msgid "The Raid"
-msgstr ""
+msgstr "L'incursion"
 
 #. [side]: type=Lavinian Centurion, id=Senturus A
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:57
 msgid "Senturus Applius"
-msgstr ""
+msgstr "Senturus Applius"
 
 #. [side]: type=Marauder Lord, id=Bjornin
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:71
 msgid "Bjornin Wyrmwylfsson"
-msgstr ""
+msgstr "Bjornin Wyrmwylfsson"
 
 #. [part]
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:82
@@ -370,6 +424,9 @@ msgid ""
 "Marauder thains will attack even in times of peace. But, something this one "
 "said worried me."
 msgstr ""
+"Les attaques des maraudeurs ne sont pas une surprise, le plus stupide des "
+"maraudeurs thains attaque, même en temps de paix. Mais, celui-ci a dit "
+"quelque chose qui m’a inquiétée."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:86
@@ -378,6 +435,9 @@ msgid ""
 "the Wylfling clan on all of Silvia? This might be the beginning of something "
 "bigger."
 msgstr ""
+"Ses frères? Existe-t-il plus d’un projet d'attaque Maraudeur ? Peut-être une "
+"attaque par le clan Wylfling sur l'ensemble de Silvia? Ce pourrait être le "
+"début de quelque chose de plus grand."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:90
@@ -385,64 +445,72 @@ msgid ""
 "These fears swam through my mind as we came over the last hill and the city "
 "of Silvium lay before us..."
 msgstr ""
+"Ces craintes ont traversé mon esprit jusqu'à notre arrivée sur la colline et "
+"la ville de Silvium poser devant nous..."
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:108
 msgid "Force the Marauder Lord to surrender"
-msgstr ""
+msgstr "Forcer le seigneur Maraudeur à la capitulation."
 
 #. [objective]: condition=lose
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:120
 msgid "Death of Bjornin Wyrmwylfsson"
-msgstr ""
+msgstr "Mort de Bjornin Wyrmwylfsson"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:132
 msgid "Silvium"
-msgstr ""
+msgstr "Silvium"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:136
 msgid "To Pass of Arendia"
-msgstr ""
+msgstr "Pour aller à Arendia"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:147
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:126
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:140
 msgid "To Portum Frigae"
-msgstr ""
+msgstr "Pour Portum Frigae"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:130
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:144
 msgid "To Silvian Plains"
-msgstr ""
+msgstr "Pour les plaines de Silvia"
 
 #. [message]: id=Bjornin
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:185
 msgid "You have eluded my brother, but you will die this day!"
-msgstr ""
+msgstr "Vous avez échappé à mon frère, mais vous allez mourir aujourd’hui!"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:189
 msgid "What? Are you mad? You cannot breach the walls of this city!"
 msgstr ""
+"Pardon? Vous êtes fou? Vous ne pouvez pas ouvrir une brèche dans les murs de "
+"cette ville!"
 
 #. [message]: id=Bjornin
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:193
 msgid "Prepare to die! This day, Silvium will fall - tomorrow, all of Lavinia!"
 msgstr ""
+"Prépare-toi à mourir! Aujourd’hui, Silvium va tomber - demain, l'ensemble de "
+"Lavinia!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:197
 msgid "He may be right. These walls are not as strong as you think, Jugarthus."
 msgstr ""
+"Il a peut-être raison. Ces murs ne sont pas aussi forts que vous le pensez, "
+"Jugarthus."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:201
 msgid "True. We must prepare to do battle."
-msgstr ""
+msgstr "VRAI. Nous devons nous préparer à la bataille."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:205
@@ -450,17 +518,20 @@ msgid ""
 "But still, we cannot kill this man. If we do, we call all of the Marauder "
 "people onto our backs."
 msgstr ""
+"Mais encore, nous ne pouvons pas tuer cet homme. Si nous le faisons, nous "
+"aurons tous le peuple Maraudeur sur notre dos."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:209
 msgid ""
 "I think we may have done that already, but very well. Force him to retreat!"
 msgstr ""
+"Quand je pense ce que nous avons déjà fait, mais bon. Forcer le a se retirer!"
 
 #. [message]
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:339
 msgid "Look! Caius Regilius has returned!"
-msgstr ""
+msgstr "Regarder! Caius Regilius est de retour!"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:343
@@ -468,66 +539,69 @@ msgid ""
 "It appears the marauders are already attacking the city. Quick, let us rally "
 "to defend it!"
 msgstr ""
+"Il semble que les maraudeurs ont déjà attaqué la ville. Vite, mobilisons-"
+"nous pour la défendre!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:347
 msgid "It seems that, as I feared, the Marauders are attacking in earnest."
 msgstr ""
+"Il semble, comme je le craignais, que les Maraudeurs attaquent sérieusement."
 
 #. [message]: id=Bjornin
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:369
 msgid "You do not scare me! You will perish this day!"
-msgstr ""
+msgstr "Je n'ai pas peur de vous! Aujourd’hui, vous allez mourir!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:373
 msgid "Why does he not flee? we have almost crushed his army."
-msgstr ""
+msgstr "Pourquoi ne pas fuir? Nous avons pratiquement détruit son armée."
 
 #. [message]: id=Bjornin
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:377
 msgid "I will not fail in banishing you from this land, Lavinian scum!"
-msgstr ""
+msgstr "Je ne manquerai pas de vous bannir de ce pays, racaille Lavinian!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:381
 msgid "What should we do? He will not flee!"
-msgstr ""
+msgstr "Que devons-nous faire? Il ne va pas fuir!"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:385
 msgid "You know what we must do - we must kill him."
-msgstr ""
+msgstr "Vous savez ce que nous devons faire - nous devons le tuer."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:389
 msgid "If we do, Silvia shall perish!"
-msgstr ""
+msgstr "Si nous le faisons, Silvia tombe!"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:393
 msgid "But we seem to have no choice."
-msgstr ""
+msgstr "Mais il semble que nous n'avons pas le choix."
 
 #. [objectives]
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:397
 msgid "Kill Bjornin?"
-msgstr ""
+msgstr "Tuer Bjornin?"
 
 #. [message]: id=Bjornin
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:416
 msgid "So, I die... but you, too, shall perish..."
-msgstr ""
+msgstr "Donc, je meurs ... mais vous, aussi, vous périrai ..."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:428
 msgid "Well, we have defeated him. What should we do now?"
-msgstr ""
+msgstr "Eh bien, nous avons vaincu. Que devons-nous faire maintenant?"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:432
 msgid "Well, if we stay here, they will attack again, yes?"
-msgstr ""
+msgstr "Eh bien, si nous restons ici, ils vont attaquer de nouveau, non?"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:436
@@ -535,6 +609,8 @@ msgid ""
 "I suppose so. We have broken the treaty, after all - although they forced us "
 "to!"
 msgstr ""
+"Je suppose que oui. Nous avons rompu le traité, après tout - mais ils nous y "
+"ont forcés!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:440
@@ -542,21 +618,25 @@ msgid ""
 "Yes. Well, we all knew they would attack in earnest eventually - I guess "
 "that time is now. We need a plan."
 msgstr ""
+"Eh bien oui, nous savions tous qu’ils attaqueraient sérieusement à la fin - "
+"je pense qu'il est grand temps. Nous avons besoin d'un plan."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:444
 msgid "We should leave this city, yes? Perhaps even leave all of Silvia."
 msgstr ""
+"Nous devons quitter cette ville, oui? Peut-être même laisser tous Silvia."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:448
 msgid "Exactly. We need to mount an evacuation - no one can stay."
-msgstr ""
+msgstr "Exactement. Nous devons organiser une évacuation - nul ne peut rester."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:452
 msgid "You're talking about thousands of people, maybe tens of thousands!"
 msgstr ""
+"Vous parlez de milliers de personnes, peut-être des dizaines de milliers!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:456
@@ -564,6 +644,9 @@ msgid ""
 "We only need to bring those who want to come - that would be those Lavinians "
 "who settled here, not the natives we defeated."
 msgstr ""
+"Nous avons seulement besoin d'emmener ceux qui veulent venir - ce serait les "
+"Laviniens qui se sont installés ici, pas les autochtones que nous avons "
+"vaincu."
 
 #. [message]: id=Senturus A
 #: Fall_of_Silvium/scenarios/2_The_Raid.cfg:465
@@ -571,16 +654,18 @@ msgid ""
 "This sounds like a plan. I will hold the city for as long as I can, then "
 "follow you. You go now, and bring all the civilians with you."
 msgstr ""
+"Cela semble être un plan. Conserver la ville aussi longtemps que possible, "
+"puis vous suivre. Maintenant, allez, rassembler tous les civils avec vous."
 
 #. [scenario]: id=3_Down_the_Silvia_River
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:17
 msgid "Down the Silvia River"
-msgstr ""
+msgstr "Le long du fleuve Silvia"
 
 #. [side]: type=Marauder Jarl, id=Bjornsson
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:52
 msgid "Bjornsson Wyrmwylfsson"
-msgstr ""
+msgstr "Bjornsson Wyrmwylfsson"
 
 #. [part]
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:61
@@ -589,6 +674,9 @@ msgid ""
 "the rules of the game - he had refused to retreat. Still, the Marauders "
 "would seek revenge. We were now in a state of war."
 msgstr ""
+"Nous n’avons pas eu d’autre choix que de tuer le seigneur Maraudeur. – il a "
+"refusé de se retirer. Ainsi, les Maraudeurs se vengent. Maintenant, nous "
+"sommes en guerre."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:65
@@ -598,6 +686,10 @@ msgid ""
 "people down the river to the other major city of the province. From there, "
 "we would depart by ship. Silvia would be no more."
 msgstr ""
+"Mais Silvium n'était pas prêt pour la guerre, ni son peuple. Nous avons "
+"décidé de réduire nos pertes et de nous retirer de Silvium, réunissant tous "
+"les gens au fleuve, d’aller par bateau à l'autre grande ville de la "
+"province. Silvia n’existe plus."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:69
@@ -606,6 +698,9 @@ msgid ""
 "to drive us out of Silvia, and they had sacrificed one of their own so that "
 "they could break the peace and destroy us. It was actually probable."
 msgstr ""
+"Il est possible que tout ait été prévu - que les maraudeurs voulaient une "
+"excuse pour nous chasser de Silvia, et ils ont sacrifié l'un des leurs afin "
+"de briser la paix et de nous détruire. C’est très probable."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:73
@@ -615,6 +710,10 @@ msgid ""
 "lose my life. So we abandoned Silvium, and brought all of the civilians with "
 "us."
 msgstr ""
+"Mais nous avons encore une petite chance. Si nous étions restés dans la "
+"ville, nous serions morts. La prudence est la meilleure vertu. Je préfère "
+"perdre une province que de perdre la vie. Nous avons donc abandonné Silvium, "
+"et emportais tous les civils avec nous."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:77
@@ -624,28 +723,35 @@ msgid ""
 "under ours. That meant we only brought along the nobility, and their gold, "
 "which would come in handy on the road. It was, however, rather heavy."
 msgstr ""
+"Ce n'était pas aussi dur, presque un jeu d’enfant. Nous avons simplement eu "
+"à emmener les descendants des Laviniens avec nous - les autochtones serait "
+"tout aussi heureux sous le règne des maraudeurs que sous le nôtre. Cela "
+"signifie que nous avons emmené la noblesse, et leur or, ce qui serait utile "
+"sur la route. Il a été, cependant, assez lourd."
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:97
 msgid "Bring eight civilians to the end of the road, then hold out for 5 turns"
 msgstr ""
+"Apportez huit civils à la fin de la route, puis tenir le coup pendant 5 tours"
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:99
 msgid "Bring seven civilians to the end of the road, then hold out for 5 turns"
 msgstr ""
+"Apportez sept civils à la fin de la route, puis tenir le coup pendant 5 tours"
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:104
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:364
 msgid "Kill the Marauder leader"
-msgstr ""
+msgstr "Tuer le chef Maraudeur"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:122
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:204
 msgid "To Silvium"
-msgstr ""
+msgstr "Pour Silvium"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:160
@@ -653,6 +759,8 @@ msgid ""
 "We should make camp here. The Marauders are probably in pursuit; we should "
 "move out at dawn."
 msgstr ""
+"Nous devrions camper ici. Les Maraudeurs sont probablement derrière nous, et "
+"nous devrions partir à l'aube."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:164
@@ -660,11 +768,14 @@ msgid ""
 "Agreed. If the Wylflings find us, they will attack - they are enraged at the "
 "death of their kinsman, and it is not wise to cross an enraged barbarian."
 msgstr ""
+"D’accord, Si les Wyflings nous trouvent, il vont attaquer - ils sont furieux "
+"de la mort de leur parent, et il n’est pas sage de croiser des barbares "
+"furieux."
 
 #. [message]: id=Bjornsson
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:168
 msgid "You killed my father - prepare to die! Aghh!!"
-msgstr ""
+msgstr "Vous avez tué mon père – Préparez vous à mourir! Aghh!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:172
@@ -672,11 +783,15 @@ msgid ""
 "See? I was right. Hurry up, we have to get to the port before these "
 "marauders kill us!"
 msgstr ""
+"Regarder ? J'ai eu raison. Dépêchez-vous, nous devons nous rendre au port "
+"avant que ces maraudeurs nous tuent!"
 
 #. [message]: id=Septus T
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:181
 msgid "We could also kill this thain - there is no reason not to. Attack him!"
 msgstr ""
+"On peut aussi tuer ce Thain - il n'y a aucune raison de ne pas le faire. "
+"Attaquer-le!"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:187
@@ -684,6 +799,8 @@ msgid ""
 "We have another choice - fight back. If we kill this thain, we will be safe "
 "on the rest of the road."
 msgstr ""
+"Nous avons un autre choix - la lutte. Si nous tuons ce Thain, nous allons "
+"être en sécurité sur le reste de la route."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:193
@@ -691,6 +808,8 @@ msgid ""
 "Very well, we may try that. But we must also move along our charges, in case "
 "we fail."
 msgstr ""
+"Très bien, on peut essayer. Mais nous avons également besoin de nous "
+"déplacer le long des attaques, si nous échouons."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:197
@@ -698,6 +817,8 @@ msgid ""
 "Sir, the civilians will not be ready to leave until tomorrow morning. We "
 "must protect their camp until then."
 msgstr ""
+"Seigneur, les civils ne seront pas prêts à partir avant demain matin. Nous "
+"devons protéger leur camp jusque-là."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:201
@@ -706,64 +827,67 @@ msgid ""
 "along the road? There are noblemen in them too that will die in they remain "
 "here. We should send some scouts to warn them."
 msgstr ""
+"Je suppose que nous devrions arrêter d'ici là ... et que dire de ces fermes "
+"le long de la route ? Il ya trop de nobles qui meurent, ils restent ici. "
+"Nous devons envoyer des éclaireurs pour les avertir."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:205
 msgid "Very well."
-msgstr ""
+msgstr "Très bien."
 
 #. [message]
 #. [message]: speaker=second_unit
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:227
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:301
 msgid "Ha ha! Die, Lavinian dogs!"
-msgstr ""
+msgstr "Ha ha! Mourrez, chiens de Laviniens!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:231
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:305
 msgid "We have failed to guard the civilians..."
-msgstr ""
+msgstr "Nous n'avons pas réussi à protéger les civils ..."
 
 #. [unit]: type=Nobleman
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:250
 msgid "Aulus Calpurnius"
-msgstr ""
+msgstr "Aulus Calpurnius"
 
 #. [unit]: type=Nobleman
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:260
 msgid "Vibius Secundus"
-msgstr ""
+msgstr "Vibius Secundus"
 
 #. [unit]: type=Nobleman
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:270
 msgid "Aulus Bruttius"
-msgstr ""
+msgstr "Aulus Bruttius"
 
 #. [unit]: type=Nobleman
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:281
 msgid "Gallus Floridius"
-msgstr ""
+msgstr "Gallus Floridius"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:290
 msgid "The civilians are ready to move!"
-msgstr ""
+msgstr "Les civils sont prêts à bouger!"
 
 #. [scenario]: id=3_Down_the_Silvia_River
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:312
 msgid "Manius Publicus"
-msgstr ""
+msgstr "Manius Publicus"
 
 #. [scenario]: id=3_Down_the_Silvia_River
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:312
 msgid "Quick, Marauders are attacking! You need to leave with us!"
-msgstr ""
+msgstr "Vite, les Maraudeurs attaquent! Vous avez besoin de partir avec nous!"
 
 #. [scenario]: id=3_Down_the_Silvia_River
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:313
 msgid "Caius Petrus"
-msgstr ""
+msgstr "Caius Petrus"
 
 #. [scenario]: id=3_Down_the_Silvia_River
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:313
@@ -771,42 +895,46 @@ msgid ""
 "Anyone in here? You need to prepare to leave - marauders are attacking the "
 "province!"
 msgstr ""
+"Il y a quelqu’un ici ? Il est nécessaire de se préparer à partir - les "
+"Maraudeurs attaquent la province!"
 
 #. [scenario]: id=3_Down_the_Silvia_River
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:314
 msgid "Appius Pinarius"
-msgstr ""
+msgstr "Appius Pinarius"
 
 #. [scenario]: id=3_Down_the_Silvia_River
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:314
 msgid "Get ready to leave for the port city - Marauders are invading!"
-msgstr ""
+msgstr "Soyez prêt à partir pour le port - Les Maraudeurs nous envahissent!"
 
 #. [scenario]: id=3_Down_the_Silvia_River
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:315
 msgid "Vibius Grattius"
-msgstr ""
+msgstr "Vibius Grattius"
 
 #. [scenario]: id=3_Down_the_Silvia_River
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:315
 msgid "Marauder are invading! You need to leave now!"
-msgstr ""
+msgstr "Les Maraudeurs nous envahissent! Nous devons partir maintenant!"
 
 #. [message]
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:332
 msgid "On to safety..."
-msgstr ""
+msgstr "Sur la sécurité ..."
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:360
 msgid "Survive for five turns"
-msgstr ""
+msgstr "Survivre pendant cinq tours"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:379
 msgid ""
 "The civilians are all on the road. Now we just need to buy them some time."
 msgstr ""
+"Les civils sont tous sur la route. Il nous suffit maintenant de gagner un "
+"peu de temps."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:383
@@ -815,17 +943,20 @@ msgid ""
 "do that, it will do to stall him for a day or so. By that time the civilians "
 "will be almost at the city, and out of his reach."
 msgstr ""
+"Très bien. Je voudrais tout de même tuer ce seigneur Maraudeur, mais si nous "
+"ne pouvons pas faire cela, , il va ralentir d'un jour ou deux.. À ce moment-"
+"là les civils sera presque à la ville, et hors de sa portée."
 
 #. [message]: id=Septimus A
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:387
 msgid "Let us hope he is the last thain to attack us - but I doubt he will be."
-msgstr ""
+msgstr "Espérons qu'il est le dernier Thain à nous attaquer - mais j'en doute."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:401
 msgid ""
 "The nobles will have gotten far enough along the road by now. Vade retro!"
-msgstr ""
+msgstr "Les nobles sont suffisamment loin maintenant. Vade retro!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/3_Down_the_Silvia_River.cfg:428
@@ -833,21 +964,23 @@ msgid ""
 "The Marauders will follow us no more... but they may be waiting for us down "
 "the road."
 msgstr ""
+"Les Maraudeurs ne nous suivront plus ... mais ils peuvent attendre sur la "
+"route."
 
 #. [scenario]: id=4_The_Port_City
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:24
 msgid "The Port City"
-msgstr ""
+msgstr "La ville portuaire"
 
 #. [side]: type=Lavinian Tribune, id=Darus S
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:56
 msgid "13th Legion"
-msgstr ""
+msgstr "13th Legion"
 
 #. [side]: type=Lavinian Tribune, id=Darus S
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:61
 msgid "Darus Salirus"
-msgstr ""
+msgstr "Darus Salirus"
 
 #. [part]
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:149
@@ -855,6 +988,8 @@ msgid ""
 "We arrived at Portum Frigae without further incident. However, when we got "
 "there, we had a different problem."
 msgstr ""
+"Nous sommes arrivés à Portum Frigae sans autre incident. Toutefois, lorsque "
+"nous y sommes arrivés, nous avons eu un autre problème."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:153
@@ -863,39 +998,43 @@ msgid ""
 "refused us entry to the city. He believed that if we were all that the "
 "Marauders wanted, and if he did not shelter us, he would not be attacked."
 msgstr ""
+"Lorsque nous avons dit au tribun de cette ville, Darus Salirus, ce qui "
+"s'était passé, il nous a refusé l'entrée de la ville. Il a estimé que, nous "
+"avons tous souhaité que les Maraudeurs attaquent, et s’il n'a pas de "
+"logement pour nous, il ne serait pas attaqué."
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:174
 msgid "Take the city of Portum Frigae from the traitor Darus Salirus"
-msgstr ""
+msgstr "Prenez la ville de Portum Frigae du traître Darus Salirus"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:145
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:200
 msgid "Portum Frigae"
-msgstr ""
+msgstr "Portum Frigae"
 
 #. [scenario]: id=5_Iceswept_Bay
 #. [label]
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:11
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:208
 msgid "Iceswept Bay"
-msgstr ""
+msgstr "La baie d'Iceswept"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:212
 msgid "Villa Aeliens"
-msgstr ""
+msgstr "Villa Aeliens"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:216
 msgid "Villa Ardens"
-msgstr ""
+msgstr "Villa Ardens"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:237
 msgid "Let us into the city, Darus! That is an order!"
-msgstr ""
+msgstr "Laissez-nous entrer dans la ville, Darus! C'est un ordre!"
 
 #. [message]: id=Darus S
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:241
@@ -903,6 +1042,8 @@ msgid ""
 "You have disobeyed your own orders, Caius, and forfeited your command. I "
 "will not open the gates!"
 msgstr ""
+"Vous avez désobéi à vos propres ordres, Caius, et perdu votre commandement. "
+"Je ne vais pas ouvrir les portes!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:245
@@ -910,31 +1051,33 @@ msgid ""
 "Are you mad, Darus? The marauders are invading, can you not see that? You "
 "will die if you do not help us!"
 msgstr ""
+"Vous êtes fou, Darus? Les Maraudeurs nous envahissent, vous ne le voyiez "
+"pas? Vous allez mourir si vous ne nous aider pas!"
 
 #. [message]: id=Darus S
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:249
 msgid "I have nothing to discuss with you, Caius Regilius."
-msgstr ""
+msgstr "Je n'ai rien à vous dire, Caius Regilius."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:253
 msgid "You leave us no choice. Attack them!"
-msgstr ""
+msgstr "Vous ne nous laissez pas le choix. Attaqués-les!"
 
 #. [message]: id=Septus T
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:257
 msgid "Die, traitors!"
-msgstr ""
+msgstr "Meurt, traître!"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:261
 msgid "Forward march!"
-msgstr ""
+msgstr "Charger!"
 
 #. [message]: id=Darus S
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:299
 msgid "You... have slain me, Caius..."
-msgstr ""
+msgstr "Vous ... m’avez tué, Caius ..."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:308
@@ -943,6 +1086,9 @@ msgid ""
 "normally we would have you executed. But we need you today. Marauders have "
 "attacked this city."
 msgstr ""
+"Maintenant! Tous ceux d'entre vous qui ont suivi les ordres du traître Darus "
+"Salirus – devraient normalement être exécutés. Mais nous avons besoin de "
+"vous aujourd'hui. Les Maraudeurs vont attaqués cette ville."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:312
@@ -951,12 +1097,16 @@ msgid ""
 "marauders. And even if we do, Silvia will fall. So we should not waste our "
 "efforts on mad attacks."
 msgstr ""
+"Maintenant, vous suivez mes ordres. Quant à ce que nous devons faire ... "
+"nous ne pouvons pas vaincre ces maraudeurs. Et même si nous le faisons, "
+"Silvia va tomber. Donc, nous ne devrions pas gaspiller nos efforts dans des "
+"attaques folles."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:316
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:540
 msgid "What do you propose?"
-msgstr ""
+msgstr "Que proposez-vous?"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:320
@@ -966,6 +1116,10 @@ msgid ""
 "take them around the Sidhe peninsula, to Dardania. The Legion will stay here "
 "and fight, to stop the Marauders from entering their longboats and following."
 msgstr ""
+"Nous devons évacuer les civils d'ici - rapidement. Mettez-les sur les "
+"navires - afin de les emmener autour de la péninsule du Sidhe, à Dardania. "
+"La Légion doit rester ici et lutter, pour ne pas permettre aux Maraudeurs de "
+"pénétrer dans leurs chaloupes et de les suivre"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:324
@@ -975,76 +1129,79 @@ msgid ""
 "us on the road. We will have to go out and warn the residents of those "
 "outlying plantations."
 msgstr ""
+"Nous devons emmener les résidents de cette ville, aussi bien ceux que nous "
+"avons apportés avec nous sur la route. Nous devons également avertir les "
+"résidents de ces plantations périphériques"
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:329
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:553
 msgid "Load the civilians in the ships"
-msgstr ""
+msgstr "Chargez les civils dans les navires"
 
 #. [objective]: condition=lose
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:341
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:565
 msgid "Death of three civilians"
-msgstr ""
+msgstr "La mort de trois civils"
 
 #. [unit]: type=Nobleman
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:350
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:574
 msgid "Publius Viducius"
-msgstr ""
+msgstr "Publius Viducius"
 
 #. [unit]: type=Nobleman
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:360
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:584
 msgid "Postumus Gellius"
-msgstr ""
+msgstr "Postumus Gellius"
 
 #. [unit]: type=Nobleman
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:370
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:594
 msgid "Sextus Mamilius"
-msgstr ""
+msgstr "Sextus Mamilius"
 
 #. [unit]: type=Nobleman
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:380
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:604
 msgid "Appius Liburnius"
-msgstr ""
+msgstr "Appius Liburnius"
 
 #. [unit]: type=Nobleman
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:390
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:614
 msgid "Postumus Fulvius"
-msgstr ""
+msgstr "Postumus Fulvius"
 
 #. [then]
 #. [else]
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:396
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:620
 msgid "Marauders are attacking the city! Go to the docks."
-msgstr ""
+msgstr "Les Maraudeurs attaquent la ville! Aller aux quais."
 
 #. [then]
 #. [else]
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:396
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:620
 msgid "Galus Maelius"
-msgstr ""
+msgstr "Galus Maelius"
 
 #. [then]
 #. [else]
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:397
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:621
 msgid "Gaius Floridius"
-msgstr ""
+msgstr "Gaius Floridius"
 
 #. [then]
 #. [else]
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:397
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:621
 msgid "Haven't you heard? Marauders are attacking. Get to the ships!"
-msgstr ""
+msgstr "N'avez-vous pas entendu? Les Maraudeurs attaquent. Aller aux navires!"
 
 #. [then]
 #. [else]
@@ -1053,27 +1210,28 @@ msgstr ""
 msgid ""
 "You need to leave now. Silvium has fallen, and this city is under attack!"
 msgstr ""
+"Vous devez partir maintenant. Silvium est tombé, et la ville est attaquée!"
 
 #. [then]
 #. [else]
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:398
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:622
 msgid "Quintus Tettienus"
-msgstr ""
+msgstr "Quintus Tettienus"
 
 #. [then]
 #. [else]
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:399
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:623
 msgid "Hurry! Take your belongings and go the the shipyard."
-msgstr ""
+msgstr "Vite! Prenez vos affaires et aller vers le chantier naval."
 
 #. [then]
 #. [else]
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:399
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:623
 msgid "Postus Vidicius"
-msgstr ""
+msgstr "Postus Vidicius"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:426
@@ -1082,16 +1240,19 @@ msgid ""
 "normally we would have you executed. But we need you today. Marauders are "
 "going to attack this city."
 msgstr ""
+"Maintenant! Tous ceux d'entre vous qui ont suivi les ordres du traître Darus "
+"Salirus – devraient normalement être exécutés. Mais nous avons besoin de "
+"vous aujourd'hui. Les Maraudeurs vont attaqués cette ville."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:430
 msgid "So now, you follow my orders."
-msgstr ""
+msgstr "Alors maintenant, vous suivez mes ordres."
 
 #. [unit]: type=Marauder Lord, id=Wulfsojn
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:466
 msgid "Wulfsojn Wyrdwylfsson"
-msgstr ""
+msgstr "Wulfsojn Wyrdwylfsson"
 
 #. [message]: id=Wulfsojn
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:474
@@ -1099,16 +1260,20 @@ msgid ""
 "I see the Wyrdwylflings failed to do their duty. No matter. The Lavinian "
 "thieves shall die this day!"
 msgstr ""
+"Je vois les Wyrdwylflings faillir dans leur tâche. Pas question. Ces voleurs "
+"Laviniens vont mourir aujourd'hui!"
 
 #. [message]: id=Darus S
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:483
 msgid "I have had no part in this, Wulfsojn. It is these traitors you want."
 msgstr ""
+"Je n'ai eu aucune part à cela, Wulfsojn. Ce sont ces traîtres que vous "
+"voulez."
 
 #. [message]: id=Wulfsojn
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:487
 msgid "Kill all of them!"
-msgstr ""
+msgstr "Tuez tous les deux!"
 
 #. [message]: id=Darus S
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:491
@@ -1116,11 +1281,14 @@ msgid ""
 "What?... Caius, you have brought this down on all of us! You will pay for "
 "this!"
 msgstr ""
+"Quoi? ... Caius, vous avez apporté cela sur nous tous! Vous devrez payer "
+"pour cela!"
 
 #. [message]: id=Wulfsojn
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:495
 msgid "You Lavinians... fighting among yourselves. Prepare to die!"
 msgstr ""
+"Laviniens vous ... vous vous battez entre vous. Préparez-vous à mourir!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:499
@@ -1128,32 +1296,37 @@ msgid ""
 "You see, Darus? The Marauders do not care. You will perish this day if you "
 "do not join us!"
 msgstr ""
+"Vous voyez, Darus? Les Maraudeurs ne s’en soucient pas. Vous aller périr si "
+"vous ne rejoignez pas!"
 
 #. [message]: id=Darus S
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:503
 msgid "You have betrayed Silvia!"
-msgstr ""
+msgstr "Vous avez trahi Silvia!"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:507
 msgid "We are not the enemy, Darus. They are! So fight them, not us."
 msgstr ""
+"Nous ne sommes pas l'ennemi, Darus. Ce sont eux! Combattez-les, et pas nous."
 
 #. [message]: id=Darus S
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:511
 msgid ""
 "No, you are the enemy. You have attacked me and my city. Prepare to die!"
 msgstr ""
+"Non, vous êtes l'ennemi. Vous m’avez attaqué moi et ma ville. Prépare-toi à "
+"mourir!"
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:516
 msgid "Defeat Darus Salirus"
-msgstr ""
+msgstr "Vaincre Darus Salirus"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:532
 msgid "I knew they would pursue us!"
-msgstr ""
+msgstr "Je savais qu'ils nous poursuivraient!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:536
@@ -1161,31 +1334,35 @@ msgid ""
 "We cannot defeat these marauders. And even if we do, Silvia will fall. So we "
 "should not waste our efforts on mad attacks."
 msgstr ""
+"Nous ne pouvons pas vaincre ces maraudeurs. Et même si nous le faisons, "
+"Silvia va tomber. Donc, nous ne devrions pas gaspiller nos efforts sur de "
+"folles attaques."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:658
 msgid "We cannot let the civilians be slain... be more careful!"
 msgstr ""
+"Nous ne pouvons pas laisser les civils être tués ... Soyez plus prudent!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:667
 msgid "Dammit! Another nobleman died!"
-msgstr ""
+msgstr "Damnation! Un autre noble mort!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:676
 msgid "Too many have perished..."
-msgstr ""
+msgstr "Un trop grand nombre sont mort ..."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:705
 msgid "The civilians - they have made it into the transports!"
-msgstr ""
+msgstr "Les civils - On atteint les transports!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:733
 msgid "Good. Men, fall back!"
-msgstr ""
+msgstr "Bien. Les hommes, retirons nous!"
 
 #. [message]: id=Darus S
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:756
@@ -1193,6 +1370,8 @@ msgid ""
 "So, you have killed the Marauders... Perhaps you are right. I will not "
 "oppose you any more."
 msgstr ""
+"Vous avez vaincu les Maraudeurs ... Peut-être vous avez raison. Je ne "
+"m'opposerai plus à vous."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:760
@@ -1200,6 +1379,8 @@ msgid ""
 "Good. Now, get the transports ready to leave! We will stay with the original "
 "plan - the Legion retreats to the East."
 msgstr ""
+"Bien. Maintenant, prenez les transports prêt à partir! Nous allons rester "
+"avec le plan d'origine - la Légion doit être retirée à l'est."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:794
@@ -1207,6 +1388,8 @@ msgid ""
 "We have managed to kill this marauder invader - but we should still load the "
 "civilians into the ships, for more marauders will come."
 msgstr ""
+"Nous avons réussi à tuer les envahisseurs - mais nous avons encore la charge "
+"de civils dans les navires, d’autres maraudeurs viendront."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:825
@@ -1214,21 +1397,23 @@ msgid ""
 "The rest of us should head east, and try to distract the marauders from "
 "their goal."
 msgstr ""
+"Le reste d'entre nous devrait se diriger vers l'est, et essayer de détourner "
+"les maraudeurs de leur but."
 
 #. [unit]: type=Lavinian Decurion, id=Aelius
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:862
 msgid "Aelius"
-msgstr ""
+msgstr "Aelius"
 
 #. [message]: id=Aelius
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:870
 msgid "What is going on here?"
-msgstr ""
+msgstr "Qu'est-ce qui se passe ici?"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:874
 msgid "Marauders have invaded the land!"
-msgstr ""
+msgstr "les Maraudeurs ont envahi le territoire!"
 
 #. [message]: id=Aelius
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:878
@@ -1236,11 +1421,13 @@ msgid ""
 "Oh, is that so? Strange it didn't happen sooner. Do you have any need to "
 "assistance in the battle?"
 msgstr ""
+"Oh, est-ce exact? Etrange, que cela n'a pas eu lieu plus tôt. Besoin d'aide "
+"dans la bataille?"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:882
 msgid "Help is always appreciated, if you can follow orders."
-msgstr ""
+msgstr "L'aide est toujours appréciée, si vous pouvez suivre les ordres."
 
 #. [message]: id=Aelius
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:886
@@ -1248,16 +1435,18 @@ msgid ""
 "I was once a decorated officer... I bet I can still fight. And you can use "
 "my house if you need something to prepare an attack from."
 msgstr ""
+"J'ai été une fois un officier décoré ... Je parie que je peux encore lutter. "
+"Et vous pouvez utiliser ma maison si vous voulez préparer une attaque."
 
 #. [unit]: type=Nobleman, id=Ardus D
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:903
 msgid "Ardus Drusus"
-msgstr ""
+msgstr "Ardus Drusus"
 
 #. [message]: id=Ardus D
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:911
 msgid "What is all the commotion?"
-msgstr ""
+msgstr "Qu'est-ce que toute cette agitation?"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:915
@@ -1265,6 +1454,8 @@ msgid ""
 "Marauders have invaded the province. You need to leave the area. We can "
 "protect you, if you leave now."
 msgstr ""
+"Les Maraudeurs ont envahi la province. Vous devez évacuer la zone. Nous "
+"pouvons vous protéger, si vous partez maintenant."
 
 #. [message]: id=Ardus D
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:919
@@ -1272,32 +1463,36 @@ msgid ""
 "What? This is terrible! Um... here, take some gold. You'll need it to fight "
 "the barbarians. Now get me out of here!"
 msgstr ""
+"Pardon? C'est terrible! Um ... là, prendre un peu d'or. Vous en aurez besoin "
+"pour lutter contre les barbares. Maintenant, me sortir de là!"
 
 #. [message]: speaker=narrator
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:932
 msgid "Ardus Drusus has given you 200 gold and joined the caravan."
-msgstr ""
+msgstr "Ardus Drusus vous a donné 200 pièces d'or et rejoint la caravane."
 
 #. [message]: speaker=narrator
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:947
 msgid "Ardus Drusus has given you 200 gold."
-msgstr ""
+msgstr "Ardus Drusus vous a donné 200 pièces d'or."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/4_The_Port_City.cfg:958
 msgid ""
 "Now, I hope that the ships will reach Lavinium safely... as for us, we march!"
 msgstr ""
+"Maintenant, j'espère que les navires atteignent Lavinium en sécurité ... "
+"comme pour nous, En avant marche!"
 
 #. [side]: type=Dardan Transport, id=Modius
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:30
 msgid "Silvian Refugees"
-msgstr ""
+msgstr "Réfugiés Silvien"
 
 #. [side]: type=Dardan Transport, id=Modius
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:36
 msgid "Modius"
-msgstr ""
+msgstr "Modius"
 
 #. [unit]: type=Dardan Transport
 #. [side]: type=Dardan Transport, id=Modius
@@ -1308,51 +1503,54 @@ msgid ""
 "Dardan transport ships usually carry commercial goods to sell in Silvia - "
 "but now they carry men, refugees from that province."
 msgstr ""
+"Les navires Dardan transportent habituellement des marchandises pour les "
+"vendre dans Silvia. Mais maintenant, ils emportent les réfugiés de cette "
+"province."
 
 #. [unit]: type=Dardan Transport
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:42
 msgid "Lanx"
-msgstr ""
+msgstr "Lanx"
 
 #. [unit]: type=Dardan Transport
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:51
 msgid "Alcedo"
-msgstr ""
+msgstr "Alcedo"
 
 #. [side]
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:68
 msgid "Lavinian Navy"
-msgstr ""
+msgstr "Marine lavinienne"
 
 #. [unit]: type=Dardan Trireme, id=Olympia
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:74
 msgid "Olympia"
-msgstr ""
+msgstr "Olympia"
 
 #. [unit]: type=Dardan Trireme
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:79
 msgid "Theba"
-msgstr ""
+msgstr "Theba"
 
 #. [unit]: type=Dardan Trireme
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:84
 msgid "Thera"
-msgstr ""
+msgstr "Thera"
 
 #. [unit]: type=Dardan Trireme
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:89
 msgid "Thena"
-msgstr ""
+msgstr "Thena"
 
 #. [unit]: type=Dardan Trireme
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:96
 msgid "Theta"
-msgstr ""
+msgstr "Theta"
 
 #. [unit]: type=Dardan Trireme
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:103
 msgid "Thedra"
-msgstr ""
+msgstr "Thedra"
 
 #. [part]
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:110
@@ -1362,26 +1560,31 @@ msgid ""
 "go through Iceswept Bay, around the Sidhe peninsula, and then south to "
 "Dardania, pursued by the barbarians."
 msgstr ""
+"Trois navires en partance pour Dardania. Toutefois, ils ont un long chemin "
+"devant eux, et les chaloupes des maraudeurs étaient à leurs trousses. Les "
+"transports ont dû passer par la baie d’Iceswept autour de la péninsule du "
+"Sihde, puis continuer vers le sud jusqu'à Dardania, poursuivis par les "
+"barbares."
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:127
 msgid "Bring the ships to safe landing"
-msgstr ""
+msgstr "Débarquer les navires dans un endroit sur."
 
 #. [objective]: condition=lose
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:131
 msgid "Death of the ship Modius"
-msgstr ""
+msgstr "Naufrage du navire de Modius"
 
 #. [objective]: condition=lose
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:135
 msgid "Death of the two other Transports"
-msgstr ""
+msgstr "Naufrage de deux autres transports"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:149
 msgid "Mt. Stormkeep"
-msgstr ""
+msgstr "Mont Stormkeep"
 
 #. [message]: id=Modius
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:155
@@ -1389,51 +1592,53 @@ msgid ""
 "We should bear north-east for five days, then go round the cape and south to "
 "Dardania."
 msgstr ""
+"Nous avons besoin de continuer vers le nord-pendant de cinq jours, puis "
+"d’aller vers cap, pour le sud de Dardania."
 
 #. [unit]: type=Marauder Longboat, id=Dragon
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:178
 msgid "Redragon"
-msgstr ""
+msgstr "Dragon rouge"
 
 #. [unit]: type=Marauder Longboat
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:184
 msgid "Greendragon"
-msgstr ""
+msgstr "Dragon vert"
 
 #. [unit]: type=Marauder Longboat
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:190
 msgid "Bluedragon"
-msgstr ""
+msgstr "DRagon bleu"
 
 #. [unit]: type=Marauder Longboat
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:196
 msgid "Blackdragon"
-msgstr ""
+msgstr "Dragon noir"
 
 #. [unit]: type=Marauder Longboat
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:204
 msgid "Greydragon"
-msgstr ""
+msgstr "Dragon gris"
 
 #. [unit]: type=Marauder Longboat
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:212
 msgid "Browndragon"
-msgstr ""
+msgstr "Dragon marron"
 
 #. [message]: id=Dragon
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:217
 msgid "The Dardan ships are escaping! Put them on the bottom of the bay!"
-msgstr ""
+msgstr "Le navires Dardinien s’échappent! Coulez-les au fond de la baie!"
 
 #. [message]: id=Olympia
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:229
 msgid "Ship Modius! Are you under attack?"
-msgstr ""
+msgstr "Bateau de Modius ! Êtes-vous attaqués !"
 
 #. [message]: id=Modius
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:233
 msgid "Indeed! Help us fend off these Marauder longboats!"
-msgstr ""
+msgstr "En effet! Aidez-nous à repousser les chaloupes des maraudeurs!"
 
 #. [message]: id=Modius
 #. [message]: speaker=unit
@@ -1441,28 +1646,30 @@ msgstr ""
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:259
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:268
 msgid "The ship is sinking!..."
-msgstr ""
+msgstr "Le navire s'enfonce! ..."
 
 #. [message]: id=Modius
 #: Fall_of_Silvium/scenarios/5_Iceswept_Bay.cfg:299
 msgid ""
 "We have passed beyond where the Marauder Longboats will ever go. We are safe."
 msgstr ""
+"Nous sommes passés au-delà où les chaloupes des maraudeurs ne sont jamais "
+"allé. Nous sommes en sécurités."
 
 #. [scenario]: id=6_The_Border
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:22
 msgid "The Border"
-msgstr ""
+msgstr "La frontière"
 
 #. [side]: type=Outlaw, id=Titus E
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:51
 msgid "Outlaws"
-msgstr ""
+msgstr "Hors-la-lois"
 
 #. [side]: type=Outlaw, id=Titus E
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:56
 msgid "Titus Epicydes"
-msgstr ""
+msgstr "Titus Epicydes"
 
 #. [side]
 #. [side]: type=Wild Elf Shadowdancer, id=Vaniyera
@@ -1470,7 +1677,7 @@ msgstr ""
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:60
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:75
 msgid "Sidhe Western March"
-msgstr ""
+msgstr "Les marches occidentales de Sihde."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:84
@@ -1478,6 +1685,8 @@ msgid ""
 "The ships, I hear, made it out of Iceswept Bay alive. So our story returns "
 "to my own actions, and the Legion's flight from Silvia."
 msgstr ""
+"Les navires, je crois ont dépassé la baie d’Iceswept vivant. Ainsi, notre "
+"histoire renvoie à mes propres actions, et à la fuite de la légion de Silvia."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:88
@@ -1486,6 +1695,10 @@ msgid ""
 "the east. Unfortunately, the marauders did not follow us; they sent the "
 "majority of their forces out to sea. The army itself got away unhindered."
 msgstr ""
+"Lorsque le transport a quitté la ville, nous avons immédiatement commencé "
+"une retraite vers l'est. Malheureusement, les maraudeurs ne nous ont pas et "
+"ont envoyé la majorité de leurs forces vers le large. L'armée elle-même "
+"s'est enfuie sans entrave."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:92
@@ -1495,6 +1708,11 @@ msgid ""
 "road had falled into disuse, and the Sidhe forests had grown up around it. "
 "The road ended around the Sidhe border, near two run-down farms."
 msgstr ""
+"Nous espérions sur la route du sud-est, à l’endroit où Arendia, Dardania et "
+"les territoires Sidhe se rencontre. Toutefois, ce n’était pas ainsi, la "
+"route était tombée en désuétude, et la forêt de Sidhe nous a entourés. La "
+"route a pris fin le long de la frontière de Sidhe, près de deux fermes "
+"abandonnées."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:96
@@ -1503,32 +1721,38 @@ msgid ""
 "for help. But we never got a chance to send him - we were immediately caught "
 "up in a battle with bandits..."
 msgstr ""
+"En désespoir de cause, nous avons décidé d'envoyer un messager à Sidhe, pour "
+"demander de l'aide. Mais nous n'avons jamais eu la chance de le lui faire "
+"parvenir - nous avons été immédiatement pris dans une bataille avec les "
+"bandits ..."
 
 #. [objectives]
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:115
 msgid ""
 "Avoid entering Sidhe territory (the border is marked by giant trees) (1/2)"
 msgstr ""
+"Évitez d'entrer dans le territoire Sidhe (la frontière est marquée par des "
+"arbres géants) (1 / 2)"
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:117
 msgid "Defeat the bandits"
-msgstr ""
+msgstr "Vaincre les bandits"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:135
 msgid "Villa Remien"
-msgstr ""
+msgstr "Villa Remien"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:139
 msgid "Villa Romulen"
-msgstr ""
+msgstr "Villa Romulen"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:143
 msgid "Abandoned Outpost"
-msgstr ""
+msgstr "Abandonné l'avant-poste"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:168
@@ -1536,16 +1760,18 @@ msgid ""
 "Does anyone actually live in these ruins? If so, come out quickly. We must "
 "talk."
 msgstr ""
+"Est-ce que quelqu'un vit dans ces ruines? Si oui, venez vite. Nous avons "
+"besoin de parler."
 
 #. [unit]: type=Nobleman, id=Remus S
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:175
 msgid "Remus Silvius"
-msgstr ""
+msgstr "Remus Silvius"
 
 #. [message]: id=Remus S
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:183
 msgid "What?... Is there a disturbance of some sort?..."
-msgstr ""
+msgstr "Qu'est-ce? ... Il ya t'il un problème?..."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:187
@@ -1555,16 +1781,23 @@ msgid ""
 "for aid. Is there anything we must know before we do so? Have you entered "
 "their forests recently?"
 msgstr ""
+"Oui. Les maraudeurs ont envahi Silvia. Nous avons besoin de fuir, "
+"rapidement. J'ai décidé que notre meilleur espoir de survie est d'envoyer un "
+"messager à Sidhe, en demandant de l'aide. Est-ce qu'il y a quelque chose, "
+"que nous devons savoir avant de le faire? Vous êtes entré récemment dans la "
+"forêt?"
 
 #. [message]: id=Remus S
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:191
 msgid "Bad news... bad news... I may lose my title..."
 msgstr ""
+"Mauvaises nouvelles ... mauvaises nouvelles ... je peux perdre mon titre ..."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:195
 msgid "And your life. Listen, man, you need to give me some answers."
 msgstr ""
+"Et votre vie. Ecoutez, l'homme, vous devez me donner quelques réponses."
 
 #. [message]: id=Remus S
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:199
@@ -1572,11 +1805,12 @@ msgid ""
 "Fine, fine... I'll need to get my brother, too. He lives across the street "
 "from here..."
 msgstr ""
+"Bien, bien ... J’ai aussi besoin de mon frère. Il vit dans la rue en face ..."
 
 #. [unit]: type=Nobleman, id=Romulus S
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:206
 msgid "Romulus Silvius"
-msgstr ""
+msgstr "Romulus Silvius"
 
 #. [message]: id=Romulus S
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:214
@@ -1586,6 +1820,10 @@ msgid ""
 "forest and the start of Sidhe land. You will need to eliminate them now if "
 "you want to enter Sidhe lands."
 msgstr ""
+"Je m'excuse pour mon frère. Je vois ce que vous voulez savoir ... bien, "
+"voilà le problème. Il y a des bandits dans ces bois, ils se cachent entre le "
+"bord de la forêt et le début des terres de Sidhe. Vous aurez besoin de les "
+"éliminer maintenant, si vous voulez entrer dans le territoire Sidhe."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:218
@@ -1594,6 +1832,10 @@ msgid ""
 "cross the border into Sidhe territory. It is one thing to send an unarmed "
 "messenger, but quite another to cross the border with a whole legion."
 msgstr ""
+"Nous devons être prudents. Si nous combattons contre eux, ils pourraient "
+"accidentellement franchir la frontière Sidhe. Une chose est d'envoyer un "
+"messager désarmé, mais c'en est une autre de traverser la frontière avec "
+"l'ensemble de la légion."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:222
@@ -1601,6 +1843,8 @@ msgid ""
 "So you say... but what choice do we have? They are in our way. We must "
 "attack."
 msgstr ""
+"Mais quels choix avons-nous? Ils sont sur notre chemin. Nous devrons "
+"attaquer."
 
 #. [message]: id=Romulus S
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:226
@@ -1609,11 +1853,14 @@ msgid ""
 "bandits. I would spend it on an army myself, but I know nothing about "
 "warfare."
 msgstr ""
+"Ici. Vous avez l'air un peu à cours de fonds, et vous en aurez besoin pour "
+"lutter contre les bandits. Je peux financer une armée, mais je ne sais rien "
+"à propos de la guerre."
 
 #. [message]: speaker=narrator
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:234
 msgid "Romulus Silvius has given you 100 gold."
-msgstr ""
+msgstr "Romulus Silvius vous a donné 100 pièces d'or."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:239
@@ -1622,26 +1869,30 @@ msgid ""
 "if you do not join us. Stop fighting. We are not a couple of farm owners, we "
 "are trained legionnaires - you will be slaughtered."
 msgstr ""
+"Maintenant, vous, les bandits! Ecoutez-moi - vous serez tués, par nous ou "
+"par les Maraudeurs, si vous ne vous joignez pas à nous. Nous ne sommes pas "
+"un couple de fermier, nous sommes des légionnaires entrainés – vous serez "
+"abattus."
 
 #. [message]: id=Titus E
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:243
 msgid "Go to Hades."
-msgstr ""
+msgstr "Aller à Hades"
 
 #. [message]: id=Septus T
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:247
 msgid "Attack them!"
-msgstr ""
+msgstr "Attaquer-les!"
 
 #. [unit]: type=Marauder Scorcher, id=Alfmund
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:258
 msgid "Alfmund Dyrwylfsson"
-msgstr ""
+msgstr "Alfmund Dyrwylfsson"
 
 #. [message]: id=Alfmund
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:319
 msgid "Ha! We have found you!"
-msgstr ""
+msgstr "Ha! Nous vous avons trouvé!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:323
@@ -1649,6 +1900,8 @@ msgid ""
 "What? The Marauders have caught up to us. Well, at least this is just a "
 "scouting party."
 msgstr ""
+"Quoi ? Les Maraudeurs nous ont rattrapés. Eh bien, au moins, il semble que "
+"se soit qu'une équipe de reconnaissance."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:327
@@ -1656,18 +1909,20 @@ msgid ""
 "Yes... but we must hurry if we do not want the rest of the army catching up "
 "as well. And now we have enemies at our front and back."
 msgstr ""
+"Oui .. mais nous devons nous dépêcher si nous voulons pas être rejoint par "
+"le reste de l'armée. Et maintenant nous avons des ennemis devant et derrière."
 
 #. [unit]: type=Wild Elf Thunderblade, id=Leithan
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:344
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:66
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:87
 msgid "Leithan"
-msgstr ""
+msgstr "Leithan"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:412
 msgid "What is happening here? Who has trespassed in our domain?"
-msgstr ""
+msgstr "Qu'est-ce qui se passe ici? Qui a empiété sur notre domaine?"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:416
@@ -1675,6 +1930,8 @@ msgid ""
 "Um... we are of the Lavinian Legion... but we are not here to attack you... "
 "um..."
 msgstr ""
+"Euh ... nous sommes une Légion Lavinienne... mais nous ne sommes pas ici "
+"pour vous attaquer ... euh .."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:425
@@ -1682,6 +1939,8 @@ msgid ""
 "So you say. But I do not believe you. And what are these marauders you have "
 "brought with you?"
 msgstr ""
+"Que vous dites. Mais je n’ai pas confiance en vous. Et qui sont ces "
+"maraudeurs que vous avez apportés avec vous?"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:429
@@ -1689,17 +1948,19 @@ msgid ""
 "They are not our allies. They are attacking us... this is our plight - "
 "marauders have invaded Lavinia!"
 msgstr ""
+"Ils ne sont pas nos alliés. Il nous attaquent ... c'est notre sort – Les "
+"maraudeurs ont envahi Lavinia!"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:435
 msgid "So you say. But I do not believe you."
-msgstr ""
+msgstr "Que vous dites. Mais je n’ai pas confiance en vous."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:439
 msgid ""
 "I speak the truth. Marauders have invaded Lavinia - we are fleeing from them."
-msgstr ""
+msgstr "Je dis la vérité. Les maraudeurs ont envahi Lavinia – Nous les fuyons."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:445
@@ -1707,6 +1968,9 @@ msgid ""
 "Perhaps. Perhaps not. But it is not my concern. You, the Marauders, and "
 "these bandits here - you are all enemies. You all must die."
 msgstr ""
+"Peut-être que oui. Peut-être pas. Mais ce n'est pas mon problème. Vous, les "
+"Marauders, et ces bandits ici - sont tous des ennemis. Vous devez tous "
+"mourir."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:449
@@ -1714,6 +1978,8 @@ msgid ""
 "We must make him understand we are not attacking him... I do not want to get "
 "Lavinia yet another enemy."
 msgstr ""
+"Nous devons lui faire comprendre, nous ne devons pas l'attaquer lui ... Je "
+"ne veux pas que Lavinia est encore un autre ennemi."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:453
@@ -1722,11 +1988,14 @@ msgid ""
 "front of him and surrender, he will not kill you. The Sidhe do not kill "
 "unarmed men."
 msgstr ""
+"Peut-être que nous pouvons faire appel à son honneur. Si vous déposez les "
+"armes en face de lui et vous vous rendez, il ne veut pas vous tuer. Les "
+"Sidhes ne tuent pas lun homme désarmé."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:457
 msgid "This is dangerous. But it seems we have no choice."
-msgstr ""
+msgstr "C'est dangereux. Mais il semble que nous n'avons pas le choix."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:461
@@ -1734,31 +2003,33 @@ msgid ""
 "Yes... now, the best way to surrender would be to go and make as if to "
 "attack him, but instead lay down your arms in front of him."
 msgstr ""
+"Oui ... maintenant, la meilleure façon serait de renoncer à se rendre et de "
+"faire comme si on l'attaquer lui, mais déposer les armes devant lui."
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:466
 msgid "Have Caius Regilius attack the Sidhe leader (2/2)"
-msgstr ""
+msgstr "Attaquer le chef Sidhe avec Caius Regilius (2 / 2)"
 
 #. [objective]: condition=lose
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:478
 msgid "Death of Leithan, the Sidhe leader"
-msgstr ""
+msgstr "Mort de Leithan, le chef Sidhe"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:489
 msgid "Those lying Lavinians... kill them all..."
-msgstr ""
+msgstr "Ces Lavinians mentent ... tous les tuer ..."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:530
 msgid "What is this? You want to attack me, Lavinian? Come and try!"
-msgstr ""
+msgstr "Qu'est-ce que c'est? Vous voulez m'attaquer, Lavinian? Venez essayer!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:534
 msgid "Wait! I do not attack you - see, I lay down my weapons."
-msgstr ""
+msgstr "Attendez ! Ne nous attaquer pas – je rends les armes."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:538
@@ -1766,6 +2037,8 @@ msgid ""
 "So you say. I suppose I cannot slay you, then... Very well - speak your "
 "piece."
 msgstr ""
+"Donc, Je suppose que je ne peux pas vous tuer ... Très bien – Raconter votre "
+"histoire."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:542
@@ -1775,6 +2048,10 @@ msgid ""
 "Marauders are your ancient enemies - so join with us in our struggle with "
 "them."
 msgstr ""
+"Il ya environ deux mois, des envahisseurs Maraudeurs ont lancé une attaque "
+"contre ma province. On ne pouvait pas lutter contre eux, il y en avait trop. "
+"Nous savons que les Maraudeurs sont vos anciens ennemis - Rejoigniez nous "
+"dans notre lutte avec eux."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:546
@@ -1783,11 +2060,16 @@ msgid ""
 "come with us to Mount Stormkeep, as prisoners. If you tell the truth, you "
 "will not object to this."
 msgstr ""
+"Cela prend tout son sens - Mais je ne peux pas parler pour le Conseil des "
+"Sidhes. Vous devez venir avec nous au Mont Stormkeep, comme des prisonniers. "
+"Si vous dites la vérité, vous n'aurez pas d'objection à cela."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:555
 msgid "Your terms are just. But what of these enemies who still attack us?"
 msgstr ""
+"Vos conditions sont justes. Mais qu'en est-il des ennemis qui continuent de "
+"nous attaquer?"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:559
@@ -1795,118 +2077,122 @@ msgid ""
 "My people are numerous and powerful... if they try to follow you into the "
 "forest, we will crush them."
 msgstr ""
+"Mes gens sont nombreux et puissants ... s'ils essaient de vous suivre dans "
+"la forêt, nous les écraserons."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:565
 msgid "Your terms are just."
-msgstr ""
+msgstr "Vos conditions sont justes."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6_The_Border.cfg:581
 msgid "Remember, do not kill them. Just bind them tightly with ropes."
 msgstr ""
+"Rappelez-vous, ne pas les tuer. Il suffit de les lier solidement avec des "
+"cordes."
 
 #. [scenario]: id=6t_Mount_Stormkeep
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:32
 msgid "Mount Stormkeep"
-msgstr ""
+msgstr "Mont Stormkeep"
 
 #. [unit]: type=Wild Elf Shadowdancer, id=Vaniyera
 #. [side]: type=Wild Elf Shadowdancer, id=Vaniyera
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:74
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:81
 msgid "Vaniyera"
-msgstr ""
+msgstr "Vaniyera"
 
 #. [side]
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:82
 msgid "Sidhe Council"
-msgstr ""
+msgstr "Conseil des Sidhes"
 
 #. [unit]: type=Wild Elf Thunderblade, id=Faelyndun
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:88
 msgid "Faelyndun"
-msgstr ""
+msgstr "Faelyndun"
 
 #. [unit]: type=Wild Elf Thunderblade, id=Cadhla
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:95
 msgid "Cadhla"
-msgstr ""
+msgstr "Cadhla"
 
 #. [unit]: type=Wild Elf Thunderblade, id=Suileabin
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:102
 msgid "Suileabin"
-msgstr ""
+msgstr "Suileabin"
 
 #. [unit]: type=Wild Elf Thunderblade, id=Uidhir
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:109
 msgid "Uidhir"
-msgstr ""
+msgstr "Uidhir"
 
 #. [unit]: type=Wild Elf Thunderblade, id=Iarla
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:116
 msgid "Iarla"
-msgstr ""
+msgstr "Iarla"
 
 #. [unit]: type=Wild Elf Thunderblade, id=Dubhain
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:123
 msgid "Dubhain"
-msgstr ""
+msgstr "Dubhain"
 
 #. [unit]: type=Wild Elf Thunderblade, id=Ceallayach
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:130
 msgid "Ceallayach"
-msgstr ""
+msgstr "Ceallayach"
 
 #. [unit]: type=Wild Elf Thunderblade, id=Oisan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:137
 msgid "Oisan"
-msgstr ""
+msgstr "Oisan"
 
 #. [unit]: type=Wild Elf Thunderblade, id=Daithi
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:144
 msgid "Daithi"
-msgstr ""
+msgstr "Daithi"
 
 #. [unit]: type=Wild Elf Thunderblade, id=Faolan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:151
 msgid "Faolan"
-msgstr ""
+msgstr "Faolan"
 
 #. [unit]: type=Wild Elf Thunderblade, id=Cylluinn
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:158
 msgid "Cylluinn"
-msgstr ""
+msgstr "Cylluinn"
 
 #. [unit]: type=Wild Elf Stormlord, id=Saoir
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:166
 msgid "Saoir"
-msgstr ""
+msgstr "Saoir"
 
 #. [unit]: type=Wild Elf Stormlord, id=Samhna
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:173
 msgid "Samhna"
-msgstr ""
+msgstr "Samhna"
 
 #. [unit]: type=Wild Elf Stormlord, id=Onnachadh
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:180
 msgid "Onnachadh"
-msgstr ""
+msgstr "Onnachadh"
 
 #. [unit]: type=Wild Elf Stormlord, id=Dayire
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:187
 msgid "Dayire"
-msgstr ""
+msgstr "Dayire"
 
 #. [unit]: type=Wild Elf Stormlord, id=Longsygh
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:194
 msgid "Longsygh"
-msgstr ""
+msgstr "Longsygh"
 
 #. [unit]: type=Wild Elf Stormlord, id=Maol
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:201
 msgid "Maol"
-msgstr ""
+msgstr "Maol"
 
 #. [part]
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:208
@@ -1915,6 +2201,9 @@ msgid ""
 "death - surrender is an option. So I was not upset that I had been forced to "
 "surrender."
 msgstr ""
+"Les membres de la Légion ne sont pas Dardaniens. Nous ne sommes pas formés "
+"pour lutter jusqu'à la mort – La capitulation est une option. Donc Je "
+"n'étais pas fâché d’avoir été forcé de me rendre."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:212
@@ -1923,6 +2212,10 @@ msgid ""
 "ancient enemy, yes, but we were also their enemy historically. I could only "
 "hope that their hatred of the Marauders would prove stronger."
 msgstr ""
+"Le problème est, que les Sidhes sont imprévisibles. Les Maraudeurs ont été "
+"leur ancien ennemi, oui, mais nous avons également été leur ennemi "
+"historique. Je ne peut qu'espérer que leur haine des Maraudeurs serait plus "
+"forte."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:216
@@ -1932,6 +2225,9 @@ msgid ""
 "millennia, ruled instead by a cabal of six magi, whose will is enforced by "
 "the twelve Thunderblades - Leithan was one of these."
 msgstr ""
+"Enfin, notre capture Leithan appelé Grand Conseil de la forêt. Le Sidhe sont "
+"un peuple étrange. Ils ont dû être Millen, en effet régie par un groupe de "
+"six assistants, soutenue par douze Thunderblades - Leithan était l'un d'eux."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:220
@@ -1941,6 +2237,10 @@ msgid ""
 "cowardly than one of them alone could ever be. But we had no choice in the "
 "matter."
 msgstr ""
+"C’est le conseil des anciens qui va décider de notre sort. Il est "
+"regrettable que le conseil décide de notre avenir, un groupe de Sidhe "
+"pourrait être plus lâche qu'un seul ne pourrait jamais l’être. Mais nous "
+"n'avions pas le choix en la matière."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:243
@@ -1950,6 +2250,10 @@ msgid ""
 "Lavinia entered our lands, pursued by marauders. He surrendered to me. I "
 "thought to myself - what should I do with him?"
 msgstr ""
+"Mes amis – j’ai appelé ce Grand Conseil de la Forêt dans un seul but. Il ya "
+"plusieurs semaines, dans mon domaine à la frontière occidentale, une armée "
+"de Lavinia est entré dans notre pays, poursuivis par des maraudeurs. Il "
+"s’est rendu à moi, Je pensais en moi-même - que dois-je faire avec lui?"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:247
@@ -1957,6 +2261,8 @@ msgid ""
 "But that was not a question I could answer myself. I am a Thunderblade, yes, "
 "but this is a question for the Council."
 msgstr ""
+"Mais ce n'est pas une question que j'ai pu répondre moi-même. Je suis un "
+"Thunderblade, oui, mais c'est une question pour le Conseil."
 
 #. [message]: id=Saoir
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:251
@@ -1964,6 +2270,9 @@ msgid ""
 "It is true that the Marauders have stepped up their attacks of late. But "
 "really... the Lavinians are our ancient enemies, the same as the Marauders."
 msgstr ""
+"Il est vrai que les Maraudeurs ont intensifié leurs attaques ces derniers "
+"temps. Mais vraiment ... les Laviniens sont nos anciens ennemis, de même que "
+"les Maraudeurs."
 
 #. [message]: id=Faelyndun
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:255
@@ -1971,6 +2280,8 @@ msgid ""
 "Truly. Our king himself, whose sword we Thunderblades guard, died by their "
 "treachery."
 msgstr ""
+"Enfin. notre roi, dont nous les gardiens Thuderblades somme l’épée, est mort "
+"par votre trahison."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:259
@@ -1979,6 +2290,9 @@ msgid ""
 "barely remember it. We have not entered these forests for a thousand years. "
 "But the Marauders - they have waged war on you for centuries."
 msgstr ""
+"C'était il ya mille ans - un ancien malentendu. Mon peuple se le rappelle à "
+"peine. Nous ne sommes pas entrés dans cette forêt depuis mille ans. Mais les "
+"Maraudeurs - ils ont mené la guerre sur vous pendant des siècles."
 
 #. [message]: id=Samhna
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:263
@@ -1986,6 +2300,8 @@ msgid ""
 "I do not like it. Leithan has brought you here unarmed - if he had not, we "
 "would have you slain. Councilors, what do you think?"
 msgstr ""
+"Je ne l'aime pas. Leithan vous amené désarmé - s'il ne l'avait pas fait, "
+"nous vous aurions exterminés. Conseillers, qu’en pensez-vous?"
 
 #. [message]: id=Onnachadh
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:267
@@ -1996,6 +2312,12 @@ msgid ""
 "no reason to take this risk. I say, keep their arms, lead them to the edge "
 "of the forest, and be done with them."
 msgstr ""
+"Laisser moi examiner attentivement la situation. En aidant ces hommes – quel "
+"gain ? Ils n'ont rien à nous offrir. Mais si ils nous mentent, et que c’est "
+"un piège. Si nous tombons dedans, nous pourrions tous être exterminés. Le "
+"Mont Stormkeep pourrait tomber. Il n'y a aucune raison de prendre ce risque. "
+"Je dis gardons leurs armes, les conduire à l'orée de la forêt, et laissez-"
+"les partir."
 
 #. [message]: id=Dayire
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:271
@@ -2003,6 +2325,8 @@ msgid ""
 "I must agree with Onnachadh. We should not harm them, but we cannot help "
 "them."
 msgstr ""
+"Je suis d'accord avec Onnachadh. Nous ne devons pas leur causer du tort, "
+"mais nous ne pouvons pas les aider."
 
 #. [message]: id=Longsygh
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:275
@@ -2010,6 +2334,8 @@ msgid ""
 "It is a difficult decision, but our honor compels us to aid them. I say, "
 "give the man what he requests."
 msgstr ""
+"C'est une décision difficile, mais notre honneur nous oblige à les aider. Je "
+"dis, donner à l'homme ce qu'il demande."
 
 #. [message]: id=Maol
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:279
@@ -2017,6 +2343,8 @@ msgid ""
 "It is true than these Lavinians are our ancient enemies. But perhaps the "
 "times have changed. I... have no opinion."
 msgstr ""
+"Il est vrai que ces Laviniens sont nos anciens ennemis. Mais peut-être les "
+"temps ont changé. Je... n'est pas d'opinion."
 
 #. [message]: speaker=narrator
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:283
@@ -2024,6 +2352,8 @@ msgid ""
 "The council debated for some time. Eventually, Saoir announced their "
 "determination."
 msgstr ""
+"Le Conseil a débattu pendant un certain temps. Finalement, Saoir  a annoncé "
+"leur décision."
 
 #. [message]: id=Saoir
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:288
@@ -2031,26 +2361,29 @@ msgid ""
 "We leave the proper course of action up to the discretion of the "
 "Thunderblades. We will give no orders at this time."
 msgstr ""
+"Nous laissons la décision sur la façon d'agir à la discrétion des "
+"Thunderblades. Nous allons donner aucun ordre pour l’instant."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:292
 msgid "What, so is the council deadlocked?"
-msgstr ""
+msgstr "Quoi, le Conseil est arrivé à une impasse?"
 
 #. [message]: id=Saoir
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:296
 msgid "Each Thunderblade must follow his own conscience in this matter."
 msgstr ""
+"Thunderblade Chacun doit suivre sa propre conscience dans cette affaire."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:300
 msgid "Very well... so, Thunderblades, what say you?"
-msgstr ""
+msgstr "Très bien ... oui, Thunderblades, Quesque vous dites?"
 
 #. [message]: id=Faelyndun
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:304
 msgid "I will take no action."
-msgstr ""
+msgstr "Je ne prend aucune mesure."
 
 #. [message]: id=Faolan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:308
@@ -2058,21 +2391,27 @@ msgid ""
 "I must do the same. But if you want my advice, Leithan - hand him over to "
 "the Marauders and let them do what they will. Do not get involved."
 msgstr ""
+"Je vais faire de même. Mais si vous voulez des conseils, Leithan – Le "
+"remettre lui aux maraudeurs et laisser les faire ce qu’ils veulent. Ne pas "
+"s'impliquer."
 
 #. [message]: id=Iarla
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:312
 msgid "You captured him, Leithan. It is your decision, and your place to act."
 msgstr ""
+"C’est vous qui l’avait capturé, C’est à vous de décider, et il est de votre "
+"devoir d'agir."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:316
 msgid "Well... the rest of you, then. Does anyone want to aid me in this?"
 msgstr ""
+"Eh bien ... le reste d'entre vous, alors? Personne ne veut m'aider à cela?"
 
 #. [message]: id=Oisan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:320
 msgid "We cannot. It is not our place."
-msgstr ""
+msgstr "Nous ne pouvons pas. Ce n'est pas notre place."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:324
@@ -2081,21 +2420,26 @@ msgid ""
 "as to what must be done. I know not myself - that is why I brought the "
 "matter before the council."
 msgstr ""
+"Décider dès maintenant! Il s’agit d’une question de grande importance. "
+"Certains d'entre vous doivent avoir une idée de ce qui doit être fait. Je ne "
+"sais pas moi-même - c'est la raison pour laquelle j'ai porté l'affaire "
+"devant le conseil."
 
 #. [message]: id=Cadhla
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:328
 msgid "I am sorry, Leithan. But this is too strange for us."
-msgstr ""
+msgstr "Je suis désolé, Leithan. Mais cela est trop étrange pour nous."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:332
 msgid "Very well. I will consult with my own advisors. Good day to you."
 msgstr ""
+"Très bien. Je vais consulter mes propres conseillers. Bonne journée à vous."
 
 #. [message]: id=Suileabin
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:336
 msgid "Good day, Leithan."
-msgstr ""
+msgstr "Bonne journée, Leithan."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:345
@@ -2103,6 +2447,8 @@ msgid ""
 "Now... Vaniyera. You have been my right-hand mann for centuries. What do you "
 "think I should do?"
 msgstr ""
+"Maintenant ... Vaniyera. Vous avez été mon bras droit pendant des siècles. "
+"Que dois-je faire?"
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:349
@@ -2110,11 +2456,13 @@ msgid ""
 "I think this is but a foul trick. These Lavinians are spies, and should be "
 "treated as such. I say: kill them."
 msgstr ""
+"Je pense que ce n'est qu'un mauvais tour. Ces Laviniens sont des espions, et "
+"devraient être traités comme tels. Je dis: tuer les."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:353
 msgid "But to slay them would be to abandon our honor."
-msgstr ""
+msgstr "Mais les tuer serait renoncé à notre honneur."
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:357
@@ -2122,6 +2470,9 @@ msgid ""
 "It is not dishonorable to crush a gnat as it buzzes around your head. "
 "These... men. They would use your our honor against you. Do not let them!"
 msgstr ""
+"Il n'est pas déshonorant d’écraser un moucheron qui bourdonne autour de "
+"votre tête. Ces ... hommes. Ils utilisent votre notre honneur contre vous. "
+"Ne les laissez pas faire!"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:361
@@ -2130,11 +2481,14 @@ msgid ""
 "man is not lying. He is not leading us into a trap, and if we aid him, we "
 "may gain a powerful ally."
 msgstr ""
+"Je pense qu'ils ne le sont pas. Les hommes sont un livre ouvert, Vaniyera, "
+"et je peux le voir, cet homme n'est pas menteur. Il ne va pas nous conduire "
+"dans un piège, et si nous l’aidons lui, nous gagnerons un allié puissant."
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:365
 msgid "We have no need of allies!"
-msgstr ""
+msgstr "Nous n'avons pas besoin d'alliés!"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:369
@@ -2144,26 +2498,31 @@ msgid ""
 "It will be a glorious battle, but it will fall. What I would give to have an "
 "ally on that day!"
 msgstr ""
+"Alors, que faire lorsque les Maraudeurs et les elfes de glace vont nous "
+"attaquer? Nous serons en infériorité numérique, débordés et ils se "
+"montrerons supérieurs. Le Mont Stormkeep va tomber! Ce sera un combat "
+"glorieux, mais il va tomber. Qu'est-ce que je donnerais à un allié, ce jour-"
+"là!"
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:373
 msgid "You underestimate our strength, Leithan!"
-msgstr ""
+msgstr "Vous sous-estimer notre force, Leithan!"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:377
 msgid "You would throw away your honor!"
-msgstr ""
+msgstr "Vous jperdez votre honneur!"
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:381
 msgid "And you your life!"
-msgstr ""
+msgstr "Et vous votre vie!"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:385
 msgid "Wait, wait!"
-msgstr ""
+msgstr "Attendez, attendez!"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:389
@@ -2171,6 +2530,8 @@ msgid ""
 "We should not quarrel. If the decision is up to me, as it seems to be... "
 "here is what I say."
 msgstr ""
+"Nous ne devons pas nous quereller. Si la décision est la mienne, comme cela "
+"paraît être ... voici ce que je dis."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:393
@@ -2179,31 +2540,37 @@ msgid ""
 "him and his men to the edge of the forest, and there release them - but we "
 "shall keep their arms, so that they cannot pose a threat to any of us."
 msgstr ""
+"Je ne pense pas que nous avons quelque chose à gagner en aidant ces "
+"personnes. Nous devons les accompagner jusqu'à la lisière de la forêt et de "
+"les libérer - mais on doit garder les armes, afin qu'ils ne puissent pas "
+"constituer une menace pour aucun de nous."
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:397
 msgid "I do not like this. Let us go, then - I will watch our back."
 msgstr ""
+"Je ne suis pas comme ça. Laissez-nous aller, puis – Je surveillerai vos "
+"arrières."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:401
 msgid "You will treat me like an enemy, then?"
-msgstr ""
+msgstr "Vous me traiter comme un ennemi, alors?"
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:405
 msgid "And like a captive. You are both of them."
-msgstr ""
+msgstr "Vous êtes des captifs, tous les deux."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/6t_Mount_Stormkeep.cfg:409
 msgid "Very well. We leave at daybreak tomorrow."
-msgstr ""
+msgstr "Très bien. Nous partons à l'aube demain."
 
 #. [side]: type=Marauder Scorcher, id=Alfbane
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:62
 msgid "Alfbane Wylfsson"
-msgstr ""
+msgstr "Alfbane Wylfsson"
 
 #. [part]
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:101
@@ -2213,35 +2580,41 @@ msgid ""
 "anticipating our move, and were now almost blocking the path. We could get "
 "through, but it would not be easy."
 msgstr ""
+"Heureusement, les elfes sauvages ont accepté de nous amener à la frontière "
+"d’Arendia. Cependant, il ya eu une complication. Les Maraudeurs ont repéré "
+"notre venus, anticipant nos mouvements, et ils sont maintenant près de "
+"bloquer la voie. Nous avons pu passer à travers, mais ce n’était pas facile."
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:122
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:652
 msgid "Defeat the Marauder lord"
-msgstr ""
+msgstr "Vaincre le chef maraudeur"
 
 #. [objective]: condition=lose
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:134
 msgid "Death of Leithan"
-msgstr ""
+msgstr "Mort de Leithan"
 
 #. [objective]: condition=lose
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:138
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:664
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:750
 msgid "Death of Vaniyera"
-msgstr ""
+msgstr "Mort de Vaniyera"
 
 #. [label]
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:158
 msgid "Arendian River"
-msgstr ""
+msgstr "Fleuve d'Arendia"
 
 #. [message]: id=Alfbane
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:164
 msgid ""
 "So, the Sidhe have emerged from their forests - prepare to be slaughtered!"
 msgstr ""
+"Et c'est ainsi que le Sidhe sont sortis de leur forêt - Prêts à être "
+"massacrés!"
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:168
@@ -2249,16 +2622,18 @@ msgid ""
 "I knew it! This is a trap - the Lavinian and these Marauders are working "
 "together!"
 msgstr ""
+"Je le savais! Il s'agit d'un piège - le Lavinien et ces Maraudeurs "
+"travaillent ensemble!"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:172
 msgid "Do not be so hasty!"
-msgstr ""
+msgstr "Ne pas se précipité!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:176
 msgid "What? No! These Marauders are my enemy as much as yours."
-msgstr ""
+msgstr "Pardon? Non! Les Maraudeurs sont mes ennemis autant que le vôtre."
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:180
@@ -2266,6 +2641,8 @@ msgid ""
 "We have done what we promised. We will leave you now at the edge of the "
 "forest."
 msgstr ""
+"Nous avons fait ce que nous avons promis. Nous allons vous laisser "
+"maintenant à l'orée de la forêt."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:184
@@ -2273,11 +2650,15 @@ msgid ""
 "If you leave now, we will perish - at least give us our arms so we can fight "
 "them ourselves."
 msgstr ""
+"Si vous partez maintenant, nous allons périr - au moins nous donner les "
+"armes pour que nous puissions lutter contre nous-mêmes."
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:188
 msgid "I advise against that. They may well turn against us once we arm them."
 msgstr ""
+"Je ne le recommande pas. Ils pourraient se retourner contre nous une fois "
+"que nous leurs auront rendu les armes. "
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:192
@@ -2286,6 +2667,9 @@ msgid ""
 "not oppose him, the trees will turn to ash. If you do not want to fight to "
 "protect us, fight to protect your homeland."
 msgstr ""
+"Regarder – Les Maraudeurs mettent le feu à vos forêts. Si vous ne les "
+"arrêtés pas, les arbres vont finir en cendres. Si vous ne vous battez pas "
+"pour nous protéger, faite le pour protéger votre patrie."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:196
@@ -2293,11 +2677,13 @@ msgid ""
 "We will not flee like cowards. We will fight - our forests will not die on "
 "my watch."
 msgstr ""
+"Nous n'allons pas fuir comme des lâches. Nous allons nous battre - Nos "
+"forêts ne mourront pas sous mes yeux."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:200
 msgid "What of my arms?"
-msgstr ""
+msgstr "ET mes armes?"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:204
@@ -2306,16 +2692,20 @@ msgid ""
 "you must not flee - if we arm you, you must fight with us until this enemy "
 "is defeated. Then you can enter Arendia."
 msgstr ""
+"Très bien. Vous pouvez prendre vos armes, si vous vous battez aux côtés de "
+"mes elfes. Mais il ne faut pas fuir - si vous prenez les armes avec nous, "
+"vous devez vous battre avec nous jusqu'à ce que cet ennemi soit vaincu. "
+"Ensuite, vous pouvez entrer en Arendia."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:208
 msgid "You have my word, I will defeat this Marauder."
-msgstr ""
+msgstr "Vous avez ma parole, je vais vaincre ce Maraudeur."
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:212
 msgid "If he turns against us..."
-msgstr ""
+msgstr "Si il se retourne contre nous ..."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:216
@@ -2323,11 +2713,13 @@ msgid ""
 "I will not attack you, Vaniyera. The Marauders are our enemy as well as "
 "yours."
 msgstr ""
+"Je ne vais pas vous attaquer, Vaniyera. Les Maraudeurs sont nos ennemis, "
+"ainsi que le vôtre."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:236
 msgid "More marauders! Prepare the men for battle."
-msgstr ""
+msgstr "Davantage de maraudeurs! Préparer les hommes au combat."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:241
@@ -2336,6 +2728,9 @@ msgid ""
 "another way. Vaniyera, you organize the warriors. The marauders will feel "
 "the  might of a thunderblade."
 msgstr ""
+"J'espère qu’une longue bataille ne sera pas nécessaire ... et peut-être une "
+"autre voie. Vaniyera organiser la guérilla, Les maraudeurs se prennent pour "
+"un thunderblade."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:286
@@ -2343,6 +2738,8 @@ msgid ""
 "Little man! I will not slay you - if you send a message to your lord. Tell "
 "him that I challenge him to single combat."
 msgstr ""
+"Petit homme! Je ne vais pas vous tuer - si vous porter un message à votre "
+"seigneur. Dites-lui que je lui lance un défi en combat singulier."
 
 #. [message]: speaker=unit_second
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:290
@@ -2350,16 +2747,18 @@ msgid ""
 "Very well... Lord Alfbane! Lord Alfbane! The elf challenges you to single "
 "combat..."
 msgstr ""
+"Très bien ... Seigneur Alfbane! Seigneur Alfbane! Les elfes vous défi en "
+"combat singulier."
 
 #. [message]: id=Alfbane
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:294
 msgid "Very well. I accept. I would gladly slay a thunderblade."
-msgstr ""
+msgstr "Très bien. J'accepte. Je serais heureux de tuer un thunderblade."
 
 #. [message]: speaker=unit
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:313
 msgid "Die, Sidhe scum!"
-msgstr ""
+msgstr "Meurt, racaille de Sidhe!"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:317
@@ -2367,6 +2766,8 @@ msgid ""
 "Wait! It would avail nothing for me to slay you, little man... and you know "
 "well you cannot slay me."
 msgstr ""
+"Attendez, il ne serait pas profitable pour moi de vous tuer, petit homme… et "
+"vous le savez bien, vous ne pouvez pas me tuer."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:321
@@ -2374,6 +2775,8 @@ msgid ""
 "What will matter is if your leader manages to kill me in single combat, or "
 "if I kill him. So, Alfbane - will you fight me?"
 msgstr ""
+"Est-ce vraiment important que ce soit votre chef qui me tue en combat "
+"singulier, ou vous. Allez-vous vous battre contre moi ?"
 
 #. [message]: id=Alfbane
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:325
@@ -2381,17 +2784,17 @@ msgstr ""
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:379
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:413
 msgid "Indeed I will. I would gladly slay a thunderblade!"
-msgstr ""
+msgstr "En effet, je le ferai. Je serais heureux de tuer un thunderblade!"
 
 #. [message]: speaker=unit_second
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:344
 msgid "Wait, Alfbane!"
-msgstr ""
+msgstr "Attendez, Alfbane!"
 
 #. [message]: id=Alfbane
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:348
 msgid "What?! Speak quickly, so I can kill you and be done!"
-msgstr ""
+msgstr "Pardon? Parle vite, afin que je puisse te tuer!"
 
 #. [message]: speaker=unit
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:352
@@ -2399,6 +2802,8 @@ msgid ""
 "I am not here to attack you - I bring a message from my Thunderblade. Will "
 "you fight him in single combat?"
 msgstr ""
+"Je ne suis pas ici pour vous attaquer - j'apporte un message de mon "
+"Thunderblade. Allez-vous lutter contre lui en combat singulier?"
 
 #. [message]: speaker=unit
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:375
@@ -2406,16 +2811,20 @@ msgid ""
 "Alfbane, I bring a message from my Thunderblade. Will you fight him in "
 "single combat?"
 msgstr ""
+"Alfbane, j'apporte un message de mon Thunderblade. Allez-vous lutter contre "
+"lui en combat singulier?"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:409
 msgid "So, Alfbane! We meet. Will you fight me in single combat?"
 msgstr ""
+"Alors Alfbane ! Nous nous rencontrons! Serez-vous prêts à lutter avec moi en "
+"duel?"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:427
 msgid "What is this?!"
-msgstr ""
+msgstr "Qu'est-ce que c'est?"
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:431
@@ -2423,31 +2832,37 @@ msgid ""
 "Stay out of this, Caius Regilius. This is what must be done. I have no doubt "
 "I can defeat this man."
 msgstr ""
+"Rester hors de cela, Caius Regilius. C'est ce qui doit être fait. Je ne "
+"doute pas que je peux vaincre cet homme."
 
 #. [message]: id=Alfbane
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:435
 msgid "Clear the field, men! I fight with Leithan!"
-msgstr ""
+msgstr "Nettoyer le terrain, les hommes! Je me bats avec Leithan!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:517
 msgid "I don't like this. The Marauders cannot be trusted!"
 msgstr ""
+"Je ne suis pas comme ça. Les Maraudeurs ne peuvent pas faire confiance!"
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:521
 msgid "Fool. No Thunderblade has ever fallen in single combat."
-msgstr ""
+msgstr "Idiot. Aucun Thunderblade n'a jamais abandonné en combat singulier."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:525
 msgid "Now, we fight! Draw your blade and prepare to taste thunder!"
 msgstr ""
+"Maintenant, nous nous battons! Tirer votre lame et préparer vous à tâter au "
+"tonnerre!"
 
 #. [message]: speaker=narrator
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:529
 msgid "And so the elf Leithan and the man Alfbane prepared to duel."
 msgstr ""
+"Et c'est ainsi que l’elfe Leithan et l'homme Alfbane étaient préts au duel."
 
 #. [message]: speaker=narrator
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:555
@@ -2456,6 +2871,9 @@ msgid ""
 "the marauder lowered his sword and gave a secret sign. Five woodsmen drew "
 "their bows and buried five arrows in the Thunderblade's skull."
 msgstr ""
+"Mais quand ils ont confrontés leurs épées sur le champ de bataille, le "
+"maraudeur a abaissé son épée et a donné un signe secret. Cinq bûcherons "
+"sortir leurs arcs et cinq flèches s’enfouir dans le crâne du Thunderblade."
 
 #. [message]: speaker=narrator
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:582
@@ -2463,16 +2881,18 @@ msgid ""
 "Thus Leithan, the Thunderblade, Lord of the Western March, was treacherously "
 "slain."
 msgstr ""
+"Ainsi Leithan, le Thunderblade, le Seigneur des marches de l'ouest, a été "
+"tué par traîtrise."
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:604
 msgid "I knew it! We should never have let the men go free."
-msgstr ""
+msgstr "Je le savais! Il ne fallait pas laisser les hommes libres."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:608
 msgid "What? You still think I planned this Marauder attack?"
-msgstr ""
+msgstr "Pardon? Je crois que j'ai planifié l'attaque du maraudeur?"
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:612
@@ -2481,16 +2901,21 @@ msgid ""
 "And as for Leithan's thunderblade... the Twelve must  not become Eleven. I "
 "will take his sword."
 msgstr ""
+"Silence, homme! Venez, les elfes, nous avons besoin de prendre une revanche "
+"sur ceux qui ont tué Leithan. Et pour Leithan le thunderblade ... Les Douze "
+"ne doit pas devenir Onze. Je vais prendre son épée."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:632
 msgid "I do not like this. Vaniyera... he seems like he will turn against us."
 msgstr ""
+"Je ne suis pas comme ça. Vaniyera ... il semble qu'il se retourne contre "
+"nous."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:636
 msgid "Why would he?"
-msgstr ""
+msgstr "Pourquoi serait-il?"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:640
@@ -2499,6 +2924,9 @@ msgid ""
 "before it is too late. When he turns against us, we cannot have our men "
 "surrounded on all sides."
 msgstr ""
+"Il croit que nous avons tué Leithan. Nous devons battre retraite, sortir de "
+"ces elfes avant qu'il ne soit trop tard. Comme il se retourne contre nous, "
+"nous ne pouvons pas avoir nos hommes, entourés de tous côtés."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:644
@@ -2506,42 +2934,51 @@ msgid ""
 "I see... you may be right. Pull the troops back; not out of the battle, but "
 "far enough so that if the elves attack us, we will not be slaughtered."
 msgstr ""
+"Je vois ... vous avez peut-être raison. Retirer les troupes, non pas de la "
+"bataille, mais assez loin de sorte que si les elfes nous attaquent, nous ne "
+"seront pas massacrés."
 
 #. [objectives]
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:650
 msgid "Retreat your fighters so that the elves cannot attack you by surprise"
 msgstr ""
+"Retirez vos combattants afin que les elfes ne puissent pas vous attaquer par "
+"surprise"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:691
 msgid "The troops are safely placed, Caius."
-msgstr ""
+msgstr "Les troupes sont bien placés, Caius."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:695
 msgid "Good. Now -"
-msgstr ""
+msgstr "Bien. Maintenant -"
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:699
 msgid "I knew it! You traitors - or, should I say, men. Prepare to die!"
 msgstr ""
+"Je le savais! Vous êtes des traîtres - ou, devrais-je dire, des hommes. "
+"Prépare-toi à mourir!"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:709
 msgid "You see? This elf would have us dead!"
-msgstr ""
+msgstr "Vous voyez? Ces elfes veulent notre mort!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:713
 msgid "But what do we do now?"
-msgstr ""
+msgstr "Mais que faisons-nous maintenant?"
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:717
 msgid ""
 "I don't know... continue with the retreat? We should flee south to Arendia."
 msgstr ""
+"Je ne sais pas ... poursuivre la retraite? Nous devons fuir vers le sud "
+"jusqu'à Arendia."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:721
@@ -2550,6 +2987,9 @@ msgid ""
 "forests. And we should not give Vaniyera a reason to think us traitors and "
 "cowards."
 msgstr ""
+"C’est censé. Mais ... Je n'aime pas laisser ce Maraudeur brûler les forêts. "
+"Et nous ne devons pas donner à Vaniyera une raison de penser que nous  "
+"sommes des traîtres et des lâches."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:725
@@ -2557,6 +2997,8 @@ msgid ""
 "But if we stay here, we will die, whether by the Marauder's hands or the "
 "Sidhe's."
 msgstr ""
+"Mais si nous restons ici, nous allons mourir, que ce soit par les mains du "
+"maraudeur ou du Sidhe."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:729
@@ -2566,11 +3008,15 @@ msgid ""
 "elves overmuch... we should not slay Vaniyera. To kill a Thunderblade is a "
 "terrible thing."
 msgstr ""
+"Vous avez raison, je suppose. Très bien. Vade retro! Mais nous devrions "
+"faire autant de dégâts à ces maraudeurs que nous pouvons, avant de partir. "
+"Et ne pas trop mettre les elfes en colère ... il ne faut pas tuer Vaniyera. "
+"Tuer un Thunderblade est une chose terrible."
 
 #. [objective]: condition=win
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:738
 msgid "Bring Caius to the mountain pass"
-msgstr ""
+msgstr "Emmener Caius à la passe de la montagne"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:763
@@ -2578,11 +3024,13 @@ msgid ""
 "So... it seems we have reached the end of our journey. Arendia is allied "
 "ground."
 msgstr ""
+"Alors ... il semble que nous avons atteint la fin de notre voyage. Arendia "
+"est un sol."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:767
 msgid "Indeed. On to Lavinium!"
-msgstr ""
+msgstr "En effet. À Lavinium!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:771
@@ -2590,11 +3038,13 @@ msgid ""
 "And victory, I suppose. But this triumph has seen the death of a noble "
 "Sidhe, and of a great ally... we cannot rejoice in it."
 msgstr ""
+"C'est  la victoire, je suppose. Mais ce triomphe a vu la mort d'un noble "
+"Sidhe, et d'un grand allié ... nous ne pouvons pas nous réjouir de cela."
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:813
 msgid "At least I die in battle..."
-msgstr ""
+msgstr "Au moins je mourrai dans la bataille ..."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:817
@@ -2602,11 +3052,13 @@ msgid ""
 "Vaniyera has been slain! This is a dark day. I will fight no more upon it. "
 "Come, Sidhe - we return north."
 msgstr ""
+"Vaniyera a été tué! C'est un jour sombre. Ne luttons plus. Venez, Sidhes - "
+"retournons vers le nord"
 
 #. [message]: id=Vaniyera
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:826
 msgid "Men! You damn men!..."
-msgstr ""
+msgstr "Homme ! Je vous maudis Homme !"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:830
@@ -2614,11 +3066,13 @@ msgid ""
 "We have allowed both Leithan and Vaniyera to be slain. Now all of Sidhedom "
 "will be called down on our backs!"
 msgstr ""
+"Nous avons permis aux deux Leithan et Vaniyera d'être tué. Maintenant, tous "
+"seront sur notre dos!"
 
 #. [message]: id=Alfbane
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:855
 msgid "The cursed Lavinians have escaped..."
-msgstr ""
+msgstr "Le maudit Lavinians s'est échappé ..."
 
 #. [message]: id=Leithan
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:859
@@ -2626,11 +3080,15 @@ msgid ""
 "You fought well this day, Caius! Perhaps we will meet again. Good luck in "
 "Lavinium."
 msgstr ""
+"Vous avez combattu aujourd'hui, Caius! Peut-être nous nous rencontrerons à "
+"nouveau. Bonne chance dans Lavinium."
 
 #. [message]: id=Alfbane
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:872
 msgid "May the elves and the lavinians slay each other swiftly..."
 msgstr ""
+"Les elfes et les laviniens peuvent s’entretuer rapidement les uns et les "
+"autres…"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7_To_Arendia.cfg:876
@@ -2638,23 +3096,25 @@ msgid ""
 "We have slain the Marauder thain! We must not kill Vaniyera, though. Let us "
 "instead flee south."
 msgstr ""
+"Nous avons tué le chef maraudeur ! Malgré cela, Nous ne devons pas tuer "
+"Vaniyera, Ont fui vers le sud."
 
 #. [scenario]: id=7t_The_Emperor
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:10
 msgid "The Emperor"
-msgstr ""
+msgstr "L'Empereur"
 
 #. [side]: type=Lavinian Imperator, id=Vituvius M
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:38
 msgid "1st Legion"
-msgstr ""
+msgstr "1ere Legion"
 
 #. [side]: type=Lavinian Imperator, id=Vituvius M
 #. [unit]: type=Lavinian Imperator, id=Vituvius M
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:43
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:85
 msgid "Vituvius Maximus"
-msgstr ""
+msgstr "Vituvius Maximus"
 
 #. [part]
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:49
@@ -2663,6 +3123,10 @@ msgid ""
 "passed across the Arendian river, through Ceresia, and came to the capital "
 "of the empire. News of our return spread quickly."
 msgstr ""
+"Après, nous sommes entrés en Arendia, notre voyage de retour à Lavinium "
+"s'est déroulé sans incident. Nous sommes passés à travers le fleuve "
+"d’Arendian, à travers Ceresia, et nous sommes arrivés à la capitale de "
+"l'empire. La nouvelle de notre retour s'est propagée rapidement."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:53
@@ -2671,6 +3135,9 @@ msgid ""
 "did not understand the situation in Silvia; they thought the province had "
 "been lost through my own folly."
 msgstr ""
+"Notre retour à Lavinium n'a pas été triomphal. Les habitants de la cité "
+"impériale ne comprennent pas la situation dans Silvia; ils pensaient que la "
+"province avait été perdue par ma propre folie."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:57
@@ -2679,31 +3146,34 @@ msgid ""
 "Emperor. Normally it was a routine affair; but I knew this time it would not "
 "be."
 msgstr ""
+"Toujours, lorsqu’un tribun de province est dans la ville, il doit faire un "
+"rapport à l'Empereur. Normalement, il s'agit d'une affaire de routine, mais "
+"je savais que cette fois ce ne le serait pas."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:92
 msgid "Hail, Vituvius Maximus Ceresius, Imperator."
-msgstr ""
+msgstr "Ave, Vituvius Maximus Ceresius, l'empereur."
 
 #. [message]: id=Vituvius M
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:96
 msgid "The nobles are calling for your head, Caius."
-msgstr ""
+msgstr "Les nobles demandent votre tête, Caius."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:100
 msgid "They... they are, lord?"
-msgstr ""
+msgstr "Ils ... ils sont, des seigneur?"
 
 #. [message]: id=Vituvius M
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:104
 msgid "Perhaps I should give it to them. What do you think?"
-msgstr ""
+msgstr "Je devrais peut-être la leur donner. Qu'en pensez-vous?"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:108
 msgid "Lord, I did my best to -"
-msgstr ""
+msgstr "Seigneur, j'ai fait de mon mieux pour..."
 
 #. [message]: id=Vituvius M
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:112
@@ -2711,6 +3181,8 @@ msgid ""
 "I don't care what you did or did not try to do. All that matters is, you "
 "lost the province of Silvia. However..."
 msgstr ""
+"Je ne sais pas ce que vous avez fait ou n'a pas essayé de faire. Tout ce qui "
+"compte est que, vous avez perdu la province de Silvia. Cependant..."
 
 #. [message]: id=Vituvius M
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:116
@@ -2719,11 +3191,14 @@ msgid ""
 "now. The Legion has grown weak, and although you have disgraced yourself, "
 "you are battle-hardened. So I have a task for you."
 msgstr ""
+"Je veux te tuer, je ne peux pas. Nous avons maintenant besoin de bons "
+"soldats. La Légion n’est pas prête, et même si vous vous êtes déshonorées, "
+"vous êtes un ancien combattant. Donc, j'ai une mission pour vous."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:120
 msgid "What do you mean, Lord?"
-msgstr ""
+msgstr "Que voulez-vous dire, Seigneur?"
 
 #. [message]: id=Vituvius M
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:124
@@ -2732,6 +3207,9 @@ msgid ""
 "will try to march on to Arendia, but if we stop them in the mountains - "
 "perhaps we can even retake Silvia."
 msgstr ""
+"Les Maraudeurs ont pris Silvia, mais la bataille n'est pas terminée. Les "
+"Maraudeurs vont essayer de marcher sur Arendia, mais si nous les arrêtons "
+"dans les montagnes - nous pouvons peut-être même reprendre Silvia."
 
 #. [message]: id=Vituvius M
 #: Fall_of_Silvium/scenarios/7t_The_Emperor.cfg:128
@@ -2739,18 +3217,21 @@ msgid ""
 "I am going to give you a chance to regain your honor. Your must lead your "
 "old legion into Arendia, and hold the mountain pass. Go, and retake Silvium."
 msgstr ""
+"Je vous donne une chance de regagner votre honneur. Vous devez conduire "
+"votre ancienne légion en Arendia, et garder le col. Aller, et reprenait "
+"Silvium"
 
 #. [scenario]: id=8_The_Pass_of_Arendia
 #. [scenario]: id=8r_The_Pass_of_Arendia
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:19
 #: Fall_of_Silvium/scenarios/8r_The_Pass_of_Arendia.cfg:19
 msgid "The Pass of Arendia"
-msgstr ""
+msgstr "Le Col d'Arendia"
 
 #. [side]: type=Marauder Lord, id=Alfsojn
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:56
 msgid "Alfsojn"
-msgstr ""
+msgstr "Alfsojn"
 
 #. [part]
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:62
@@ -2759,67 +3240,71 @@ msgid ""
 "Silvia. This was hopeless, as was clear to all of us who had been in Silvia "
 "when it fell; I suspect the Emperor knew this as well."
 msgstr ""
+"L'Empereur a parlé. J'ai été envoyé vers le nord, avec mes vétérans, pour "
+"reprendre Silvia. Il s'agit d'une entreprise sans espoir, comme cela a été "
+"clair pour nous tous qui ont fuis Silvia, et je soupçonne que l'empereur le "
+"savait."
 
 #. [part]
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:66
 msgid "But it is not my place to object..."
-msgstr ""
+msgstr "Mais ce n'est pas ma mission…"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:133
 msgid "So. We have returned to where this all began."
-msgstr ""
+msgstr "Ainsi. Nous allons retourné à l'endroit où tout cela a commencé."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:142
 msgid "And look; a Marauder host lies in wait."
-msgstr ""
+msgstr "Regardez, une foule de maraudeur est en attente."
 
 #. [message]: id=Septimus A
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:146
 msgid "Indeed. And it does not look open to defeat."
-msgstr ""
+msgstr "En effet. Et la défaite est interdite."
 
 #. [message]: id=Alfsojn
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:152
 msgid "Look, the coward has returned to his old lands."
-msgstr ""
+msgstr "Regardez, le lâche est revenue sur ses terres."
 
 #. [message]: id=Appius S
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:158
 msgid "They do not have the look of those outnumbered."
-msgstr ""
+msgstr "Ils n’ont pas l’air en en infériorité numérique."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:162
 msgid "I do not know if the Legion is large enough to defeat them..."
-msgstr ""
+msgstr "Je ne sais pas si la Légion est assez puissante pour vaincre ..."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:171
 msgid "No matter. We have our orders."
-msgstr ""
+msgstr "Pas question. Nous avons nos ordres."
 
 #. [message]: id=Septus T
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:175
 msgid "Indeed. Attack them!"
-msgstr ""
+msgstr "En effet. Attaque-les!"
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:181
 msgid "But we have no choice. We have our orders."
-msgstr ""
+msgstr "Mais nous n'avons pas le choix. Nous avons nos ordres."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:187
 msgid "So what are we waiting for? Begin the assault."
-msgstr ""
+msgstr "Alors qu'est-ce qu'on attend? On débute l'attaque."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:212
 #: Fall_of_Silvium/scenarios/8r_The_Pass_of_Arendia.cfg:144
 msgid "Curse these Marauders..."
-msgstr ""
+msgstr "Maudit soit ces Maraudeurs..."
 
 #. [message]: speaker=narrator
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:216
@@ -2828,6 +3313,8 @@ msgid ""
 "And so perished Caius Regilius, the Tribune of Silvia, alongside many "
 "comrades."
 msgstr ""
+"Et ainsi péri Caius Regilius, le Tribun de Silvia, ainsi que de nombreux "
+"camarades."
 
 #. [message]: speaker=narrator
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:221
@@ -2838,6 +3325,10 @@ msgid ""
 "Empire. He bought Lavinium another half-century of peace, before the "
 "Imperial City finally fell."
 msgstr ""
+"Il n'est pas mort en vain, par la tenue du col d’Arendia. Le maraudeur thain "
+"n’a pas avancé sur arendia et n’a pas détruit l'ensemble de l'Empire. Il a "
+"acheté une paix d’un demi-siècle pour Lavinium, avant que la Cité impériale, "
+"enfin tombe. "
 
 #. [message]: speaker=narrator
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:227
@@ -2846,6 +3337,8 @@ msgid ""
 "The deceased heroes of the 12th Legion were remembered alongside Caius for "
 "the remainder of Lavinium's existence:"
 msgstr ""
+"La mort héroïque de la douzième légion a été mentionnée ainsi que lesouvenir "
+"de Caius pour le reste de l'existence de Lavinium"
 
 #. [message]: speaker=narrator
 #: Fall_of_Silvium/scenarios/8_The_Pass_of_Arendia.cfg:243
@@ -2855,6 +3348,9 @@ msgid ""
 "$deceased[$i].hitpoints / $deceased[$i].max_hitpoints HP\n"
 "$deceased[$i].experience / $deceased[$i].max_experience XP"
 msgstr ""
+"$deceased[$i].description - $deceased[$i].type\n"
+"$deceased[$i].hitpoints / $deceased[$i].max_hitpoints HP\n"
+"$deceased[$i].experience / $deceased[$i].max_experience XP"
 
 #. [message]: id=Alfsojn
 #. [message]
@@ -2862,6 +3358,7 @@ msgstr ""
 #: Fall_of_Silvium/scenarios/8r_The_Pass_of_Arendia.cfg:197
 msgid "I fall.... but more will come! You will never enter Silvia!"
 msgstr ""
+"Je tombe .... mais d'autres viendront! Vous ne rentrerez jamais à Silvia!"
 
 #. [part]
 #: Fall_of_Silvium/scenarios/8r_The_Pass_of_Arendia.cfg:65
@@ -2870,33 +3367,36 @@ msgid ""
 "headway into Silvia... but we were immediately pushed backwards again. We "
 "could not get out of the Pass."
 msgstr ""
+"Nous avons réussi, avec beaucoup de pertes, à rejeter les Maraudeurs et "
+"pénétrer dans Silvia ...  Mais nous avons été immédiatement rejetées à "
+"nouveau. Nous ne pouvions pas sortir du col."
 
 #. [message]: id=Caius R
 #: Fall_of_Silvium/scenarios/utils/utils.cfg:63
 msgid "Gahahh..."
-msgstr ""
+msgstr "Gahahh..."
 
 #. [message]: id=Jugarthus M
 #: Fall_of_Silvium/scenarios/utils/utils.cfg:82
 msgid "Maghah..."
-msgstr ""
+msgstr "Maghah..."
 
 #. [message]: id=Septimus A
 #: Fall_of_Silvium/scenarios/utils/utils.cfg:101
 msgid "So... death... long live the emperor..."
-msgstr ""
+msgstr "Ainsi ... la mort ... longue vie à l’empereur ..."
 
 #. [message]: id=Appius S
 #: Fall_of_Silvium/scenarios/utils/utils.cfg:111
 msgid "My standard falls..."
-msgstr ""
+msgstr "Ma bannière tombe ..."
 
 #. [message]: id=Septus T
 #: Fall_of_Silvium/scenarios/utils/utils.cfg:121
 msgid "I die... avenge me..."
-msgstr ""
+msgstr "Je meurs ... venger moi ..."
 
 #. [message]: id=Aelius
 #: Fall_of_Silvium/scenarios/utils/utils.cfg:131
 msgid "So... another retirement..."
-msgstr ""
+msgstr "Alors ... un autre repli ..."
